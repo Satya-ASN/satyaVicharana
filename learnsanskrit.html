@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learn Sanskrit | Language Learning Hub</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="preconnect" href="[fonts.googleapis.com](https://fonts.googleapis.com)">
+    <link rel="preconnect" href="[fonts.gstatic.com](https://fonts.gstatic.com)" crossorigin>
+    <link href="[fonts.googleapis.com](https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600;700&family=Playfair+Display:wght@400;600&display=swap)" rel="stylesheet">
+</head>
+<body class="learning-page sanskrit-theme">
+    <div class="app-container">
+        <!-- Sidebar Navigation -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <a href="index.html" class="back-home">
+                    <span class="back-icon">←</span>
+                    <span>Home</span>
+                </a>
+                <div class="language-title">
+                    <span class="script">संस्कृतम्</span>
+                    <h1>Sanskrit</h1>
+                </div>
+            </div>
+
+            <nav class="menu-nav">
+                <ul class="menu-list" id="menuList">
+                    <!-- Getting Started -->
+                    <li class="menu-item">
+                        <button class="menu-button" data-menu="getting-started">
+                            <span class="menu-icon">🚀</span>
+                            <span class="menu-text">Getting Started</span>
+                            <span class="menu-arrow">›</span>
+                        </button>
+                        <ul class="submenu">
+                            <li><a href="#" class="submenu-link" data-content="introduction">Introduction to Sanskrit</a></li>
+                            <li><a href="#" class="submenu-link" data-content="history">History & Significance</a></li>
+                            <li><a href="#" class="submenu-link" data-content="devanagari">Devanagari Script</a></li>
+                            <!-- li><a href="#" class="submenu-link" data-content="pronunciation">Pronunciation Guide</a></li -->
+                        </ul>
+                    </li>
+
+                    <!-- Varnamala (Alphabet) -->
+                    <li class="menu-item">
+                        <button class="menu-button" data-menu="varnamala">
+                            <span class="menu-icon">🔤</span>
+                            <span class="menu-text">Varnamala (Alphabet)</span>
+                            <span class="menu-arrow">›</span>
+                        </button>
+                        <ul class="submenu">
+                            <li><a href="#" class="submenu-link" data-content="swaras">Swaras (स्वर) - Vowels</a></li>
+                            <li><a href="#" class="submenu-link" data-content="vyanjanas">Vyanjanas (व्यञ्जन) - Consonants</a></li>
+                            <!--li><a href="#" class="submenu-link" data-content="matras">Matras (मात्रा)</a></li>
+                            <li><a href="#" class="submenu-link" data-content="sandhis">Sandhi Rules</a></li -->
+                        </ul>
+                    </li>
+
+                    <!-- Vocabulary -->
+                    <li class="menu-item">
+                        <button class="menu-button" data-menu="vocabulary">
+                            <span class="menu-icon">📖</span>
+                            <span class="menu-text">Shabdavali (Vocabulary)</span>
+                            <span class="menu-arrow">›</span>
+                        </button>
+                        <ul class="submenu">
+                            <li><a href="#" class="submenu-link" data-content="numbers">Sankhya (Numbers)</a></li>
+                            <li><a href="#" class="submenu-link" data-content="basic-words">Basic Words</a></li>
+                            <li><a href="#" class="submenu-link" data-content="learnInSets">Learn in Sets</a></li>
+                            <li><a href="#" class="submenu-link" data-content="avyaya">Avyaya (अव्यय)</a></li>
+                            <li><a href="#" class="submenu-link" data-content="colors">Varna (Colors)</a></li>
+                            <li><a href="#" class="submenu-link" data-content="nature">Prakriti (Nature)</a></li>
+                            <li><a href="#" class="submenu-link" data-content="body">Sharira (Body Parts)</a></li>
+                            <li><a href="#" class="submenu-link" data-content="time">Kala (Time)</a></li>
+                        </ul>
+                    </li>
+
+                    <!-- Grammar -->
+                    <li class="menu-item">
+                        <button class="menu-button" data-menu="grammar">
+                            <span class="menu-icon">📐</span>
+                            <span class="menu-text">Vyakarana (Grammar)</span>
+                            <span class="menu-arrow">›</span>
+                        </button>
+                        <ul class="submenu">
+                            <li><a href="#" class="submenu-link" data-content="nouns">Sangya (Nouns)</a></li>
+                            <!-- Verb Tenses sub-group -->
+                            <li class="submenu-group">
+                                <button class="submenu-group-button">
+                                    <span>Verb (क्रिय) Tenses</span>
+                                    <span class="submenu-group-arrow">›</span>
+                                </button>
+                                <ul class="submenu-nested">
+                                    <li><a href="#" class="submenu-link" data-content="verb-read">पठ</a></li>
+                                    <li><a href="#" class="submenu-link" data-content="verb-go">गच्छ</a></li>
+                                    <li><a href="#" class="submenu-link" data-content="verb-see">पस्य</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="#" class="submenu-link" data-content="cases">Vibhakti (Cases)</a></li>
+                            <li><a href="#" class="submenu-link" data-content="tenses">Kala (Tenses)</a></li>
+                            <li><a href="#" class="submenu-link" data-content="compounds">Samasa (Compounds)</a></li>
+                        </ul>
+                    </li>
+
+                    <!-- Good Reads -->
+                    <li class="menu-item">
+                        <button class="menu-button" data-menu="good-reads">
+                            <span class="menu-icon">📜</span>
+                            <span class="menu-text">Good Reads</span>
+                            <span class="menu-arrow">›</span>
+                        </button>
+                        <ul class="submenu">
+                            <!-- Verb Tenses sub-group -->
+                            <li class="submenu-group">
+                                <button class="submenu-group-button">
+                                    <span>उत्सवम्</span>
+                                    <span class="submenu-group-arrow">›</span>
+                                </button>
+                                <ul class="submenu-nested">
+                                    <li><a href="#" class="submenu-link" data-content="sanskrit-reads-deepavali">दीपावळि</a></li>
+                                    <li><a href="#" class="submenu-link" data-content="sanskrit-reads-ugaadi">उगादि</a></li>
+                                    <li><a href="#" class="submenu-link" data-content="sanskrit-reads-sankranti">संक्रान्ति</a></li>
+                                </ul>
+                            </li>
+                            <!-- li><a href="#" class="submenu-link" data-content="telugu-tenses">కాలాలు</a></li-->
+                            <!-- li><a href="#" class="submenu-link" data-content="nouns">Nouns & Gender</a></li>
+                            <li><a href="#" class="submenu-link" data-content="verbs">Verbs & Tenses</a></li>
+                            <li><a href="#" class="submenu-link" data-content="postpositions">Postpositions</a></li -->
+                        </ul>
+                    </li>
+
+                    <!-- Shlokas & Texts -->
+                    <!--li class="menu-item">
+                        <button class="menu-button" data-menu="texts">
+                            <span class="menu-icon">📜</span>
+                            <span class="menu-text">Shlokas & Texts</span>
+                            <span class="menu-arrow">›</span>
+                        </button>
+                        <ul class="submenu">
+                            <li><a href="#" class="submenu-link" data-content="basic-shlokas">Basic Shlokas</a></li>
+                            <li><a href="#" class="submenu-link" data-content="subhashitas">Subhashitas</a></li>
+                            <li><a href="#" class="submenu-link" data-content="bhagavad-gita">Bhagavad Gita Verses</a></li>
+                            <li><a href="#" class="submenu-link" data-content="stories">Simple Stories</a></li>
+                        </ul>
+                    </li -->
+
+                    <!-- Practice -->
+                    <!-- li class="menu-item">
+                        <button class="menu-button" data-menu="practice">
+                            <span class="menu-icon">🎯</span>
+                            <span class="menu-text">Abhyasa (Practice)</span>
+                            <span class="menu-arrow">›</span>
+                        </button>
+                        <ul class="submenu">
+                            <li><a href="#" class="submenu-link" data-content="quizzes">Quizzes</a></li>
+                            <li><a href="#" class="submenu-link" data-content="writing">Writing Practice</a></li>
+                            <li><a href="#" class="submenu-link" data-content="translation">Translation Exercises</a></li>
+                        </ul>
+                    </li -->
+                </ul>
+            </nav>
+
+            <div class="sidebar-footer">
+                <div class="progress-section">
+                    <span class="progress-label">Your Progress</span>
+                    <div class="progress-bar">
+                        <div class="progress-fill" style="width: 8%"></div>
+                    </div>
+                    <span class="progress-text">8% Complete</span>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Main Content Area -->
+        <main class="content-area">
+            <div class="content-wrapper" id="contentArea">
+                <!-- Welcome content shown by default -->
+                <div class="welcome-content">
+                    <div class="welcome-header">
+                        <h1>स्वागतम्! <span class="translation">Welcome!</span></h1>
+                        <p class="lead">Begin your journey into Sanskrit, the ancient language of wisdom, spirituality, and profound knowledge.</p>
+                    </div>
+
+                    <div class="info-cards">
+                        <div class="info-card">
+                            <div class="info-icon">🕉️</div>
+                            <h3>Deva Bhasha</h3>
+                            <p>Language of the Gods</p>
+                        </div>
+                        <div class="info-card">
+                            <div class="info-icon">📚</div>
+                            <h3>Vast Literature</h3>
+                            <p>Vedas, Upanishads, Epics</p>
+                        </div>
+                        <div class="info-card">
+                            <div class="info-icon">🧬</div>
+                            <h3>Perfect Grammar</h3>
+                            <p>Panini's Ashtadhyayi</p>
+                        </div>
+                    </div>
+
+                    <div class="quick-start">
+                        <h2>Your Learning Path</h2>
+                        <div class="steps">
+                            <div class="step">
+                                <span class="step-number">1</span>
+                                <div class="step-content">
+                                    <h4>Understand the Foundation</h4>
+                                    <p>Learn about Sanskrit's history and its systematic structure</p>
+                                </div>
+                            </div>
+                            <div class="step">
+                                <span class="step-number">2</span>
+                                <div class="step-content">
+                                    <h4>Master the Varnamala</h4>
+                                    <p>Learn all vowels, consonants, and their combinations</p>
+                                </div>
+                            </div>
+                            <div class="step">
+                                <span class="step-number">3</span>
+                                <div class="step-content">
+                                    <h4>Study Vyakarana</h4>
+                                    <p>Understand the elegant grammatical system</p>
+                                </div>
+                            </div>
+                            <div class="step">
+                                <span class="step-number">4</span>
+                                <div class="step-content">
+                                    <h4>Read & Recite</h4>
+                                    <p>Practice with shlokas and classical texts</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="quote-box">
+                        <blockquote>
+                            <p class="sanskrit-quote">विद्या ददाति विनयं</p>
+                            <p class="translation">"Knowledge gives humility"</p>
+                        </blockquote>
+                    </div>
+
+                    <div class="tip-box">
+                        <span class="tip-icon">💡</span>
+                        <div class="tip-content">
+                            <strong>Pro Tip:</strong> Sanskrit has a highly systematic structure. Once you understand the patterns, learning becomes much easier. Start with the alphabet and let each lesson build on the previous.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="js/main.js"></script>
+    
+</body>
+</html>

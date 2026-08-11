@@ -1,0 +1,16 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  // "name": "satyavicharana",
+  // wrangler.jsonc
+  "name": "learn-with-satyavicharana",
+  "compatibility_date": "2026-04-14",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "."
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
