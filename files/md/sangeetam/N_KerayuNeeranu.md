@@ -33,6 +33,7 @@ charaṇa kamalavanoḍi badukirō
 svarāḥ
 
 |-----|------|-----|------|-----|------|
+|-----|------|-----|------|-----|------|
 C-1|
 D   Ṡ   Ṡ  | D   P  | M   P  |  D   D   P  | M   M  | P   ,   | 
 kē	rē	ya	।	nī	-	।	ra	nu	|	kē	rē	gē	।	chal	-	।	lī	-	|

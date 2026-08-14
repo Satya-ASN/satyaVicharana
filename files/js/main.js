@@ -170,11 +170,14 @@ async function getContentById(contentId, title) {
         'sangeetam-intro': await getSangeetamIntroContent(),
 		'sarali-swaramulu': await getSaraliSwaramuluContent(),
 
-        'syamaleMeenakshi': await getN_SyamaleMeenakshiContent(),
+        'Keerayu': await getN_KeerayuContent(),
+        'RamaJanardhana': await getN_RamaJanardhanaContent(),
         'RaminchuvaaRevaruraa': await getN_RaminchuvaaRevaruraaContent(),
-        'VaraShivaBalam': await getN_VarashivaBalamContent(),
         'SakthiSahitaGanapatim': await getN_SakthiSahitaGanapatimContent(),
         'SantamPaahimaam': await getN_SantamPaahimaamContent(),
+        'syamaleMeenakshi': await getN_SyamaleMeenakshiContent(),
+        'VandeMeenakshi': await getN_VandeMeenakshiContent(),
+        'VaraShivaBalam': await getN_VarashivaBalamContent(),
 
         'kundaGoura': await getG_KundaGouraContent(),
         'sriGananadha': await getG_SriGananadhaContent(),
@@ -1006,6 +1009,10 @@ async function getN_SyamaleMeenakshiContent() {
     return loadContent_md_html('md/sangeetam/N_SyamaleMeenakshi.md');
 }
 
+async function getN_VandeMeenakshiContent() {
+    return loadContent_md_html('md/sangeetam/N_VandeMeenakshi.md');
+}
+
 async function getN_RaminchuvaaRevaruraaContent() {
     return loadContent_md_html('md/sangeetam/N_RaminchuvaaRevarura.md');
 }
@@ -1018,8 +1025,16 @@ async function getN_SakthiSahitaGanapatimContent() {
     return loadContent_md_html('md/sangeetam/N_SakthiSahitaGanapatim.md');
 }
 
+async function getN_KeerayuContent() {
+    return loadContent_md_html('md/sangeetam/N_Keerayu.md');
+}
+
 async function getN_SantamPaahimaamContent() {
     return loadContent_md_html('md/sangeetam/N_Santhatham pAhimAm.md');
+}
+
+async function getN_RamaJanardhanaContent() {
+    return loadContent_md_html('md/sangeetam/N_RamaJanardhana.md');
 }
 
 async function getG_VaraVeenaContent() {
