@@ -176,6 +176,8 @@ async function getContentById(contentId, title) {
         'SakthiSahitaGanapatim': await getN_SakthiSahitaGanapatimContent(),
         'SantamPaahimaam': await getN_SantamPaahimaamContent(),
 
+        'kundaGoura': await getG_KundaGouraContent(),
+        'sriGananadha': await getG_SriGananadhaContent(),
         'VaraVeena': await getG_VaraVeenaContent(),
 
         'AdigoBhadraadri': await getK_AdigoBhadraadriContent(),
@@ -183,7 +185,9 @@ async function getContentById(contentId, title) {
         'RamaChandraaya': await getK_RamaChandraayaContent(),
         'muddugaareYashoda': await getK_muddugaareYashodaContent(),
 
-        'Lingaastakam': await getA_LingaastakamContent(),
+        'O_harivarasanam': await getO_HariVasarasanamContent(),
+        'O_Lingaastakam': await getO_LingaastakamContent(),
+        'O_ramaChandraya': await getO_RamaChandrayaContent(),
 
         'MS_maatemantramu': await getMS_maatemantramuContent(),
         'MS_yedutanilichindi_choodu': await getMS_yedutanilichindi_chooduContent(),
@@ -1022,6 +1026,14 @@ async function getG_VaraVeenaContent() {
     return loadContent_md_html('md/sangeetam/G_Varaveena.md');
 }
 
+async function getG_KundaGouraContent() {
+    return loadContent_md_html('md/sangeetam/G_KundaGoura.md');
+}
+
+async function getG_SriGananadhaContent() {
+    return loadContent_md_html('md/sangeetam/G_SriGananadha.md');
+}
+
 async function getK_AdigoBhadraadriContent() {
     return loadContent_md_html('md/sangeetam/K_AdigoBhadradri.md');
 }
@@ -1042,8 +1054,16 @@ async function getK_muddugaareYashodaContent() {
     return loadContent_md_html('md/sangeetam/K_muddugaareYashoda.md');
 }
 
-async function getA_LingaastakamContent() {
-    return loadContent_md_html('md/sangeetam/A_Lingaastakam.md');
+async function getO_LingaastakamContent() {
+    return loadContent_md_html('md/sangeetam/O_Lingaastakam.md');
+}
+
+async function getO_RamaChandrayaContent() {
+    return loadContent_md_html('md/sangeetam/O_RamaChandraya.md');
+}
+
+async function getO_HariVasarasanamContent() {
+    return loadContent_md_html('md/sangeetam/O_HariVasarasanam.md');
 }
 
 async function getMS_maatemantramuContent() {
