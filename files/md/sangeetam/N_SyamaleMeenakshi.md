@@ -36,5 +36,5 @@ P , , , | P , P , | M , , , | M , M ,|G , , , | G , G , | R , , , | R , R ,
 pa | ma ra | mo | cha ni | pan | ka ja | lo | cha ni
 P , , , | P , D P | M , , , | M , P M | G , , , | G , M G | R , , , | R , G R
 pa | dmasana | vaa ni | hari | la | kshmi vinu | the | shambhavi
-Repeat first 4 lines
+Syamale | meenakshi |
 </h4>

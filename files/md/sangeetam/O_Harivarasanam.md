@@ -9,7 +9,8 @@ Avarohanam: 	s n2 p m1 r2 s
 <br>
 </h3>
 <h4>
-|||||||||
+
+| | | | | | |  | |
 |----|----|----|----|----|----|----|----|
 .N s s | s , s | r s r | ,,, | .N , .N | r , S	s , , | , , ,
 | Hariva | rasa | nam  |  | Viswa | moha | nam |  | 

@@ -24,7 +24,7 @@ R , ,	|	n , p 	|	S , G 	|	R , , | R G R 	|	n , p 	|	S , G 	|	R ,  ,
 bhak 	|	thAni 	|	pOsha 	|	Kam  | bhava su| tham  vi 	|	nAya 	|	kam
 P  D  P |	M   P  M 	|G  M  G 	|	R ,  , | S  R S 		|	n S  n 		|	p d n 	|	S ,  ,
 bhakthimuk|	thi pradam |bhooshi than |	gam | raktha pa	|	dAmbujam	|	bhAvayA |	Mi
-Repeat first 4 lines
+sakthi 	|	sahitha |
 
 
 

@@ -24,15 +24,15 @@ charaṇa kamalavanoḍi badukirō
 (hariya)
 svarāḥ
 
-|-----|------|-----|------|-----|------|
+|123|12|12|123|12|12|
 |-----|------|-----|------|-----|------|
 D Ṡ Ṡ | D P | M P | D D P | M M | P , | 
-kē rē ya । nī - । ra nu | kē rē gē । chal - । lī - |
+kē rē ya | nī - | ra nu | kē rē gē | chal - | lī - |
 D D Ṡ | D P | M P | D D P | M G | R S | 
-va ra va । pa ḍe । da va | raṃ - tē । ka - । ṇi rō |
+va ra va | pa ḍe | da va | raṃ - tē | ka - | ṇi rō |
 S R R | S R | S R | D D P | M G | R S | 
-ha ri ya । ka ru । ṇa dō | ḻā - da । bhā - । gya va |
+ha ri ya | ka ru | ṇa dō | ḻā - da | bhā - | gya va |
 D P D | Ṡ , | D P | D D P | M G | R S | 
-ha ri sa । ma - । rpa ṇē | mā - ḍi । ba du । ki rō |
+ha ri sa | ma - | rpa ṇē | mā - ḍi | ba du | ki rō |
 S R R | S R | S R | D D P | M G | R S | 
-ha ri ya । ka ru । ṇa dō | ḻā - da । bhā - । gya va |
+ha ri ya | ka ru | ṇa dō | ḻā - da | bhā - | gya va |

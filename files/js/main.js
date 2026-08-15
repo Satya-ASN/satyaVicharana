@@ -1074,11 +1074,11 @@ async function getO_LingaastakamContent() {
 }
 
 async function getO_RamaChandrayaContent() {
-    return loadContent_md_html('md/sangeetam/O_RamaChandraya.md');
+    return loadContent_md_html('md/sangeetam/O_Ramachanraya.md');
 }
 
 async function getO_HariVasarasanamContent() {
-    return loadContent_md_html('md/sangeetam/O_HariVasarasanam.md');
+    return loadContent_md_html('md/sangeetam/O_Harivarasanam.md');
 }
 
 async function getMS_maatemantramuContent() {
