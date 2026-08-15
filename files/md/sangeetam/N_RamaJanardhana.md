@@ -5,7 +5,7 @@ Sankarabharanam ( ½ N ) S R₂ G₃ M1P D₂ N*3Ṡ/ ṠN*3D₂ P M1G₃ R₂ S
 Talam:Tisra Adi
 <h4>
 
-|----|----|----|----|
+|123|123|123|123|
 |----|----|----|----|
 P P G 	| 	P M R	| 	M G M	| 	P D N
 Rama Ja |nArdhana	|rAvana		|mardhana

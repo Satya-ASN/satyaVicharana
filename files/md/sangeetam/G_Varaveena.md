@@ -1,19 +1,29 @@
 <h2>Varaveena</h2>
 <h3>
 Ragam: Mohanam  (28th melakartha janyam)
+<br>
 Talam:  Rupakam  
+<br>
 Chaturasra Jathi
-Arohanam : S R2 G2 PD2 S  Avarohanam: S D2 PG2 R2 S
+<br>
+Arohanam : S R2 G2 PD2 S
+<br>
+Avarohanam: S D2 PG2 R2 S
 </h3>
-
+<h4>
 Sahityam:
-
+<br>
 Varaveena Mrudu Paani Vanaruha Lochana Raani
+<br>
 Suruchira Bambhara Veni Suranuta Kalyaani
+<br>
 Nirupama Shubha Guna Lola Niratishaya Prada Sheela
+<br>
 Varadaapriya Ranganaayaki Vaanchita Phala Daayaki
+<br>
 Saraseejasana Janani Jaya Jaya Jaya
 
+<br>
 Meaning:
 You hold the divine ("vara") veena in your soft ("mrudu") hands ("paani").
 You are the queen ("raani") of the omniscient. Your eyes ("lochana") are like the lotus petals ("vanaruha").
@@ -25,8 +35,9 @@ You are Ranganaayaki,  the consort ("priya")of the Ranganatha ("varadaa").
 You grant ("daayaki") the boons ("phala") desired ("vaanchita") by your devotees.
 O Mother ("janani") of Brahma, who is seated on a lotus ("saraseeja-asana")!
 Victory ("jaya") to you.
+<br>
 
-|--|--|--|--|--|--|--|--|
+|12|1234|12|1234|12|1234|12|1234|
 |--|--|--|--|--|--|--|--|
 G  G  |  P  ,  P  ,  |  D  P  |  s*  ,  s*  ,  |r*  s*  |  D  D  P  ,  |  D  P  | G  G  R  ,  |
 Vara  |  vee-na - |Mrudu  |  Pa-ni -|Vana  | ruha  Lo - |chana|Raa-ni - |

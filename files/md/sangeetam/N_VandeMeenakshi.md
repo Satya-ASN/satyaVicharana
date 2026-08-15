@@ -1,9 +1,12 @@
-VandeMeenakshi
+<h2>VandeMeenakshi
+<h3>
+Ragam:Sankarabharanam
+<br>
+( ½ N ) S R₂ G₃ M1P D₂ N*3Ṡ/ ṠN*3D₂ P M1G₃ R₂ S Talam:Adi
 
-Ragam:Sankarabharanam ( ½ N ) S R₂ G₃ M1P D₂ N*3Ṡ/ ṠN*3D₂ P M1G₃ R₂ S Talam:Adi
 
+<h3>
 
-1
 S , G, S, G ,
 S , G ,
 M G R S
@@ -59,3 +62,38 @@ S , , ,
 Subha
 kari satatama ham
 . . . .
+
+
+
+Nottuswaram 
+Vande Meenakshi 
+||S   G      S    G                  
+||vandE mInA kshi             
+||n R       n R                       
+||vaktrE parNE                  
+||S   G    S   G                     
+||bRndE saktE                   
+||M G R S   G R S N           
+S   G      M   G   R   S  
+tvam     sarasija 
+n   R     G R    S  N  
+durgE   nata  sura 
+S  R    G M P  P  
+guru  guha  Paa 
+S,    S,  
+||lini jala     ruha chara    NE 
+||S , N D   P , M                 
+||sundara  pANDyA         
+||S , N D   P , M                 
+||sUri  janAdhA                 
+||S , N D    P , P M            
+||sundara rAja sa           
+G  M    P   D  
+nandE  mAyE 
+P , P ,  
+rE 
+G , M M P  
+hOdari gauri 
+||M G R S      G R S n       S , S , 
+||Subha kari satataM       
+aham 
