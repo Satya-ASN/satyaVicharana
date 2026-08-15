@@ -1026,7 +1026,7 @@ async function getN_SakthiSahitaGanapatimContent() {
 }
 
 async function getN_KeerayuContent() {
-    return loadContent_md_html('md/sangeetam/N_Keerayu.md');
+    return loadContent_md_html('md/sangeetam/N_KerayuNeeranu.md');
 }
 
 async function getN_SantamPaahimaamContent() {
