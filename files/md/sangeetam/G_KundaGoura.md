@@ -1,40 +1,29 @@
 <h2>Kundagowra - Mandara </h2>
 <h3>
-raagam: malahari (mElakarta 15, maayaamaalava gaula janyaraaga) 
+rāgam: malahari (mElakarta 15, maayaamaalava gaula janyaraaga) 
 <br>
-svara sthaanaaH: shhaDjam, shuddha RRishhabham, shuddha madhyamam, paMcamam, shuddha dhaivatam 
+ārohaṇa: S R1 M1 P D1 Ṡ
 <br>
-aarOhaNa: S R1 . . . M1 . P D1 . . . Ṡ 
+avarohaṇa: Ṡ D1 P M1 G3 R1 S
 <br>
-avarOhaNa: Ṡ . . . D1 P . M1 G3 . . R1 S 
-<br>
- 
-taalam: chatusra jaati roopaka taalam (2-4) 
+tālam: chatusra jaati roopaka taalam (2-4) 
 <br>
 aMgaaH: 1 dhRRitam (2 kaala) + 1 laghu (4 kaala) 
 <br>
-roopakarta: purandhara daasa 
+rūpakarta: purandhara daasa 
 <br>
-<h4>
-saahityam 
-<br>
+<h4>sāhityam </h4>
 pallavi 
-<br>
 mandara kusumaakara makarandaM vaasituvaa 
-<br>
 kundagaura govrivara mandiraaya maanamakuTa 
-<br>
 (mandara) 
-<br>
 hEmakooTa siMhaasana viroopaaksha karuNaakara 
-<br>
 (mandara) 
-<br>
 candamaama mandaakini mandiraaya maanamakuTa 
-<br>
 (mandara) 
 <br>
 
+<h4>Swaram</h4>
 |12|1234|12|1234|12|1234|12|1234|
 |----|----|----|----|----|----|----|----|
 D P | M G R S | R M | P D M P |D Ṙ | Ṙ Ṡ D P | D P | M G R S |

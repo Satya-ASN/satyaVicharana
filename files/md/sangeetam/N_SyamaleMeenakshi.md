@@ -3,7 +3,7 @@
 <h3>Syamale Meenakshi</h3>
 <br>
 <h4>
-Raga: Sanakarabaranam
+Raga: Dheera Sanakarabaranam
 <br>
 Tala: Aadi / catushra Eka
 <br>
@@ -28,7 +28,6 @@ padmasana vaani hari lakshmi vinuthe shambhavi
 |1234 | 1234 |1234 | 1234|1234 | 1234 |1234 | 1234|
 |--|--|--|--|--|--|--|--|
 S , , R | G , M , | P , , , | P , , , | D , , N | s* , s* N | D , P , | M , G ,
-|||| | | | P , , , | G ,
 Sya male | mee | na | kshi | sun da | re swara | sa | kshi
 M , D , | M , R , | G , P , | G , S ,| R , M , | R , N , | S , , , | S , , ,
 Shanka | ri gu | ru gu | ha sa | mudhbha | ve shi | ve | va

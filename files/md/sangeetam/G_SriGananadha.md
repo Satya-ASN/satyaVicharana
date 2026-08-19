@@ -6,47 +6,32 @@ rāgam: malahari (melakarta 15, māyāmālava gaula janyarāga)
 <br>
 avarohaṇa: Ṡ D1 P M1 G3 R1 S
 <br>
-tālam: rūpakam (2 - 4)
+tālam: chatusra jaati roopaka taalam (2-4) 
+<br>
+aMgaaH: 1 dhRRitam (2 kaala) + 1 laghu (4 kaala) 
 <br>
 rūpakarta: purandhara dāsa
 <br>
 </h3>
-<h4>
-sāhityam
+<h4>sāhityam </h4>
 <br>
 pallavi
-<br>
 lambodara lakumikara		ambāsuta amaravinuta
-<br>
 a protruding belly (“lambodara”). You hold goddess lakshmi (“lakumi”) in your hand (“kara”). O son of Parvathi (“amba sutha”) you are worshipped by (“vinutha”) the gods (“amara”).
-
-<br>
 caraṇam 1
-<br>
 śrī gaṇanātha sindhūra varṇa	karuṇā sāgara karivadana
 (lambodara)
-<br>
 O leader of the pramada ganas, (“sri gana natha”), you are the clor of vermillion (“sindhura varna”), and the ocean of compassion (“karuna sagara”). You have the visage (“vadana”) of the mighty elephant (“kari”)
-
-<br>
 caraṇam 2
-<br>
 siddha cāraṇa gaṇa sevita		siddhi vināyaka te namoPnamo
 (lambodara)
-<br>
 You have all the holy men at your feet (“siddha charana”) and you are worshipped by the pramadha ganas who are the followers of lord Siva (“gana sevitha”). You grant your devotees all their wishes (“siddhi vinayaka”) and I bow to you (“the namo ”).
-
-<br>
 caraṇam 3
-<br>
 sakala vidya-adi pūjita		sarvottama te namo namo
 (lambodara)
-<br>
 You are the first (“aadi”) one to receive obeisance (“poojitha”) when setting upon acquiring any kind of knowledge (“sakala vidhya”). You are the greatest one of all (“sarvothama”) and I pray to you.
 
-<br>
-svaram
-<br>
+<h4>Swaram</h4>
 
 |12|1234|12|1234|12|1234|12|1234|
 |----|----|----|----|----|----|----|----|

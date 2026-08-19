@@ -4,7 +4,7 @@
 <h4>
 Composer: Muthuswami Dikshitar
 <br>
-Talam: Tisra Ekam
+Talam: Chaturasra Ekam
 <br>
 Ragam: Shankarabharanam (Madhyama Sruthi) 
 <br>

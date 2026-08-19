@@ -2,25 +2,17 @@
 <h3>
 Ragam: Mohanam  (28th melakartha janyam)
 <br>
-Talam:  Rupakam  
-<br>
-Chaturasra Jathi
+Talam: Chaturasra Jathi - Rupakam  
 <br>
 Arohanam : S R2 G2 PD2 S
 <br>
 Avarohanam: S D2 PG2 R2 S
 </h3>
-<h4>
-Sahityam:
-<br>
+<h4>Sahityam </h4>
 Varaveena Mrudu Paani Vanaruha Lochana Raani
-<br>
 Suruchira Bambhara Veni Suranuta Kalyaani
-<br>
 Nirupama Shubha Guna Lola Niratishaya Prada Sheela
-<br>
 Varadaapriya Ranganaayaki Vaanchita Phala Daayaki
-<br>
 Saraseejasana Janani Jaya Jaya Jaya
 
 <br>
@@ -36,6 +28,8 @@ You grant ("daayaki") the boons ("phala") desired ("vaanchita") by your devotees
 O Mother ("janani") of Brahma, who is seated on a lotus ("saraseeja-asana")!
 Victory ("jaya") to you.
 <br>
+
+<h4>Swaram</h4>
 
 |12|1234|12|1234|12|1234|12|1234|
 |--|--|--|--|--|--|--|--|
