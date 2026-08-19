@@ -1,16 +1,10 @@
 <h2>gandhamu puyyarugaa</h2>
 <h3>
-
 raagam: punnaagavaraaLi
-<br>
 8 hanumatODi janya
-<br>
 Aa: N2 , S R1 G2 M1 P D1 N2
-<br>
 Av: N2 D1 P M1 G2 R1 S N2 ,
-<br>
 taaLam: aadi
-<br>
 Composer: Tyaagaraaja
 </h3>
 
