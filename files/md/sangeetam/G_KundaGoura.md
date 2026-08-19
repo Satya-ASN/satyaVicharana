@@ -24,6 +24,7 @@ candamaama mandaakini mandiraaya maanamakuTa
 <br>
 
 <h4>Swaram</h4>
+
 |12|1234|12|1234|12|1234|12|1234|
 |----|----|----|----|----|----|----|----|
 D P | M G R S | R M | P D M P |D Ṙ | Ṙ Ṡ D P | D P | M G R S |

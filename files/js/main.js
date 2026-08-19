@@ -171,7 +171,6 @@ async function getContentById(contentId, title) {
 		'sarali-swaramulu': await getSaraliSwaramuluContent(),
         'Alankaramulu': await getAlankaramuluContent(),
 
-        'Keerayu': await getN_KeerayuContent(),
         'RamaJanardhana': await getN_RamaJanardhanaContent(),
         'RaminchuvaaRevaruraa': await getN_RaminchuvaaRevaruraaContent(),
         'SakthiSahitaGanapatim': await getN_SakthiSahitaGanapatimContent(),
@@ -182,6 +181,7 @@ async function getContentById(contentId, title) {
 
         'kundaGoura': await getG_KundaGouraContent(),
         'sriGananadha': await getG_SriGananadhaContent(),
+        'Keerayu': await getG_KeerayuContent(),
         'VaraVeena': await getG_VaraVeenaContent(),
 
         'AdigoBhadraadri': await getK_AdigoBhadraadriContent(),
@@ -1032,10 +1032,6 @@ async function getN_SakthiSahitaGanapatimContent() {
     return loadContent_md_html('md/sangeetam/N_SakthiSahitaGanapatim.md');
 }
 
-async function getN_KeerayuContent() {
-    return loadContent_md_html('md/sangeetam/N_KerayuNeeranu.md');
-}
-
 async function getN_SantamPaahimaamContent() {
     return loadContent_md_html('md/sangeetam/N_Santhatham pAhimAm.md');
 }
@@ -1046,6 +1042,10 @@ async function getN_RamaJanardhanaContent() {
 
 async function getG_VaraVeenaContent() {
     return loadContent_md_html('md/sangeetam/G_Varaveena.md');
+}
+
+async function getG_KeerayuContent() {
+    return loadContent_md_html('md/sangeetam/G_KerayuNeeranu.md');
 }
 
 async function getG_KundaGouraContent() {
