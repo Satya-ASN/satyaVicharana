@@ -56,18 +56,18 @@ These are the feet that have given many boons ("varamosagedi") to rishis ("param
   Bra |-hma | Kadi |  gi na- | - -  Paa | - da  mu- | - -
 ; S,r | N D | S R |  M dp  | p M,p - pmG  , R | g R , | g S , |
   Bra |-hma | Kadi |  gi na- | - - | Paa |  - da |  mu- |  | - -
-;  gr | sn D |  , s R |  M dp  | p M,d - pmG  , R | g R, |  | g S , |
+;  gr | sn D |  , s R |  M dp  | p M,d - | pmG  , R | g R, | g S , |
   Bra |-hma | Kadi |  gi na- | - - |  Paa |  - da |  mu- | - -
 |
 ; ,  r | , m - M  P ; |  D P |  | ; pm | P – P | mpdp  pmgr ||
 --  Bra | -hma mu Taa- |  ne nee  - Paa- - | da  mu- - - | - - - -
-S-  sgR sN,  D | S R |  M dp  | p md - pmG  ; R | g R , |  | g S , |
+S-  sgR sN,  D | S R |  M dp  | p md - | pmG  ; R | g R , | g S , |
   Bra  - | hma Kadi |  gi na- | - - | Paa |  - da |  mu- |  | - -
 |
-; ,  r | , m - M  P ; |  N  D |  |  S ; | ; dr |  sn dp  mp - mg ||
+; ,  r | , m - M  P ; |  N  D |  |  S ; | ; dr |  sn dp  mp - mg |
 --  Bra | -hma mu Taa- |  ne nee  Paa- | - da | mu- - -  - -  - -
 S-  S,r  N  D |  S R |  M dp  | p M,d - pmG  , R | g R , | g S , |
- | Bra | - | hma Kadi |  gi na- | - - | Paa |  - da |  mu- |  | - -
+ | Bra | - | hma Kadi |  gi na- | - - | Paa |  - da |  mu- |  - -
 |
 ; , m | mm-M | M M | , m M  |  M  dp | G R |  S ,r | M M |  |  
   Che | lagi | Va | su da | Go li |  chi na- Nee- | Paa- | da mu
@@ -84,17 +84,17 @@ pm- m m  , m –M  M M |  , m M  |  M  dp | G R |  S ,r | M M |  |
 ;  rm |  , p D |  N ; | N N |  r s N |  D- D P ; |  ;  ; |  |  | 
   Bali | Tala | Mo- |  pi  na |  Paa- | - da mu- | - -
 |
-; pm |  , p D |  ; s  s |  , s S |  ; s r | , g R  S ; | N – nd  
-  Tala  -gaka | - Gaga  -namu |  Tan-  - ni na  Paa da mu-
+; pm |  , p D |  ; s  s |  , s S |  ; s r | , g R | S ; | N – nd  
+  Tala | -gaka | - Gaga | -namu |  Tan- | - ni na | Paa | da mu-
 D- pm | , p D |  S S |  S S |  |  s r pm , g R | S ; | gr – sN,  
-  Tala  -gaka | Gaga |  namu |  Tan--ni na  Paa da mu-
-D – ng  , r S | S rn | n d P |  ;  dp | , d S |  sndp | mpmg 
-| Bala ripu |  Gaa-- | chi na |  Paa | - - da | mu -- | - - - -
+  Tala | -gaka | Gaga |  namu |  Tan- | -ni na | Paa |da mu-
+D – ng | , r S | S rn | n d P |  ;  dp | , d S |  sndp | mpmg 
+| Bala | ripu |  Gaa-- | chi na |  Paa | - - da | mu -- | --
 |
-rs- pm | , p D |  S S |  S S |  |  s r pm , g R | S ; | gr – sN,  
-  Tala  -gaka | Gaga |  namu |  Tan--ni na  Paa da mu-
-D – ng  , r S | S rn | n d P |  ;  mp | dp -sn | dp- mp  dp-mg  rs
-| Bala ripu |  Gaa-- | chi na |  Paa | - - da | - - mu  -- - - |  - - 
+rs- pm | , p D |  S S |  S S |  s r pm , g R | S ; | gr – sN,  
+  Tala  -gaka | Gaga |  namu |  Tan--ni na | Paa da mu-
+D – ng  , r S | S rn | n d P |  ;  mp | dp -sn | dp- mp | dp-mg  rs
+| Bala ripu |  Gaa-- | chi na |  Paa | - - da | - - mu | - - |  - - 
 brahma|
 ; , m | , m-M  M ; |  M M |  M  dp  mG, R-  r S r | M M  
  Kaa  - mi ni  Paa- |  pa mu |  Ga di- | gi - na  Paa-- | da mu
@@ -105,13 +105,13 @@ p M- m , m-M  M ; |  M M |  M  dp  mG, R-  r S r | M M
 ;  , r  m p - D | N N | N N |  r s N |  D D  P ; |  ; ; |  | 
   Paa - mu Ta | la  ni |  di na |  Paa-  -da mu- |  - -
 ; pd | m- p D  ; d s |  ,- s S |  ;  s  r | , g R  S ; | N – nd  
- Pre-  -mapu -Shree- - sa ti | - Pi si - ke di | Paa da mu-
-D- pd  m- p D  d S , | S S |  |  ;  s  r | , g R  S ; | gr – sN,  
- -  Pre- -mapu Shree- | sa ti |  - Pi si - ke di | Paa da mu-
-D- pd  m- p D  ; d s | , s S |  s r p m  , g R  S ; | gr – sN,  
- -  Pre- -mapu Shree- | - sa ti |  Pi- si - | - ke di Paa da mu-
-D – ng  , r S | S rn | ,  n dd |  ;  dp | , d S |  sndp | mpmg | rs
--  Paa-  mi di  Tura- | - ga  pu  - Paa- - -  da |  mu- - | - - - - 
+ Pre- | -mapu -Shree- - sa ti | - Pi si - ke di | Paa da mu-
+D- pd | m- p D | d S , | S S |  |  ;  s  r | , g R  S ; | gr – sN,  
+ -  Pre- | -mapu | Shree- | sa ti |  - Pi si | - ke di | Paa da mu-
+D- pd | m- p D  |; d s | , s S |  s r p m | , g R  S ; | gr – sN,  
+ -  Pre- | -mapu | Shree- | - sa ti |  Pi- si - | - ke di Paa da mu-
+D – ng | , r S | S rn | ,  n dd |  ;  dp | , d S |  sndp | mpmg | rs
+-  Paa- | mi di | Tura- | - ga  pu | - Paa- - -  da |  mu- - | - - - - 
 brahma|
 ;  m m  , m M  ; dp | mG, gr | gs – r  m | , p P | pm –  N  , d  P | 
  Para | - ma Yo – gu |  la - ku  --  Pari | - Pa ri Vi- dha | -mula 
