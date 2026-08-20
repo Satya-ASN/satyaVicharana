@@ -41,5 +41,5 @@ G  G  |  G  G  R  G  |  P  G  | P  ,  P  ,  |G  G  |  D  P  D  ,  |  D  P  |  s*
 Niru |pama Shubha |Guna| Lo-la - |Nira  | thiJaya - |  Prada | See-la - |
 D  g*  |  r*  r*  s*  s*  |  D  s*  | D  D  D  P  |G  P  |  D  s*  D  P  |  D  P  | G  G  R  S  |
 Vara  | da - Priya  |  Ranga  | naa-yaki  |Vaa-|  nchitha  Phala  |Daa-| --yaki  |
-S  R  |  G  ,  G  ,  |  G  R  | P  G  R  ,  |S  R  |  S  G  R  S  |  
-Sara  | si-ja  -  |  sana  | Janani  -  |Jaya  | jaya jaya  |
+S  R  |  G  ,  G  ,  |  G  R  | P  G  R  ,  |S  R  |  S  G  R  S  |  r* D SS
+Sara  | si-ja  -  |  sana  | Janani  -  |Jaya  | jaya jaya  | vaani
