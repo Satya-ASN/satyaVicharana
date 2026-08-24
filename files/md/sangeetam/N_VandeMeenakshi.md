@@ -1,32 +1,29 @@
 <h2>VandeMeenakshi
-<h3>
-Ragam:Sankarabharanam
-<br>
-( ½ N ) S R₂ G₃ M1P D₂ N*3Ṡ/ ṠN*3D₂ P M1G₃ R₂ S Talam:Adi
+<h4>
+<table>
+  <tr>
+    <td>NottuSwaram</td>
+    <td>Composer: Muthuswami Dikshitar</td>
+  </tr>
+  <tr>
+    <td>Talam: Adi </td>
+    <td>Raga: Sankarabharanam </td>
+  </tr>
+  <tr>
+    <td>Aro: ( ½ N ) S R₂ G₃ M1P D₂ N*3Ṡ </td>
+    <td>Ava: ṠN*3D₂ P M1G₃ R₂ S </td>
+  </tr>
+  </tr>
+</table>
+</h4>
 
 
-<h3>
-
-S , G, S, G ,
-S , G ,
-M G R S
-vandE
-meenA kshi
-tvAm sarasija
-2
-Ṇ, R , Ṇ, R ,
-Ṇ, R ,
-G R S Ṇ
-vaktrE
-parNE durgE
-nata sura
-3
-S , G, S, G ,
-S R G M
-P , , ,
-bRndE
-saktE guru
-guha pA
+S , G , S , G , | S , G , | M G R S
+vandE meenA | kshi tvAm | sarasija
+Ṇ , R , Ṇ , R , | Ṇ, R , | G R S Ṇ
+vaktrE parNE | durgE | nata sura
+S , G , S, G , | S R G M | P , , ,
+bRndE saktE | guru guha | pA
 4
 M G R S G R S Ṇ
 S , , ,

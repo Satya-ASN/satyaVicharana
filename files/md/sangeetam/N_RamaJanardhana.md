@@ -1,12 +1,9 @@
 <h2>RamaJanArdhana<h2>
-<h3>NottuSwaram</h3>
 <h4>
-<br>
-
 <table>
   <tr>
-    <th>Composer: Muthuswami Dikshitar</th>
-    <th></th>
+    <td>NottuSwaram</td>
+    <td>Composer: Muthuswami Dikshitar</td>
   </tr>
   <tr>
     <td>Talam: Tisra Adi </td>
