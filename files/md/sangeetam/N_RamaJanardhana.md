@@ -1,13 +1,24 @@
 <h2>RamaJanArdhana<h2>
 <h3>NottuSwaram</h3>
 <h4>
-Composer: Muthuswami Dikshitar
 <br>
-Talam: Tisra Adi
-<br>
-Aro: S R₂ G₃ M1 P D₂ N3 Ṡ		Ava: Ṡ N3 D₂ P M1 G₃ R₂ S
-<br>
-</h3>
+
+<table>
+  <tr>
+    <th>Composer: Muthuswami Dikshitar</th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>Talam: Tisra Adi </td>
+    <td>Raga: 29 Dheera Sanakarabaranam mela</td>
+  </tr>
+  <tr>
+    <td>Aro : S R₂ G₃ M1 P D₂ N3 Ṡ </td>
+    <td>Ava: Ṡ N3 D₂ P M1 G₃ R₂ S</td>
+  </tr>
+  </tr>
+</table>
+</h4>
 
 |123|123|123|123|123|123|123|123|
 |----|----|----|----|----|----|----|----|

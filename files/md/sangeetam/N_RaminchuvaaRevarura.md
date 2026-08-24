@@ -1,14 +1,26 @@
 <h2>Remim Suvā revārura</h2>
 <h3>NottuSwaram</h3>
 <h4>
-Composer: Muthuswami Dikshitar
-<br>
-Talam: Trisra Ekam		Ragam: Subhōshini 
-<br>
-Aro : S R₂ G₃ M1 P D₂ N*3 Ṡ		Ava: Ṡ N*3 D₂ P M1 G₃  R₂  S 
 <br>
 
+<table>
+  <tr>
+    <th>Composer: Muthuswami Dikshitar</th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>Talam: Trisra Ekam </td>
+    <td>Raga: Subhōshini </td>
+  </tr>
+  <tr>
+    <td>Aro : S R₂ G₃ M1 P D₂ N*3 Ṡ </td>
+    <td>Ava: Ṡ N*3 D₂ P M1 G₃ R₂ S</td>
+  </tr>
+  </tr>
+</table>
+
 Pallavi
+</h4>
 Remim suva revārura ‖ Raghuththama Ninnuvina ‖
 (Reminsuva)
 Anupallavi

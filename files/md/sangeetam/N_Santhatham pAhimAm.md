@@ -1,14 +1,24 @@
 <h2>santhatham pAhimAm</h2>
 <h3>NottuSwaram</h3>
 <h4>
-Composer: Muthuswami Dikshitar
 <br>
-Talam: Rupakam
-<br>
-Raga: Sanakarabaranam ( ½ N )
-<br>
-Aro : S R₂ G₃ M1 P D₂ N*3 Ṡ               Ava: Ṡ N*3 D₂ P M1 G₃  R₂  S
-<br>
+
+<table>
+  <tr>
+    <th>Composer: Muthuswami Dikshitar</th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>Talam: Rupakam</td>
+    <td>Raga: Sanakarabaranam ( ½ N )</td>
+  </tr>
+  <tr>
+    <td>Aro : S R₂ G₃ M1 P D₂ N*3 Ṡ</td>
+    <td>Ava: Ṡ N*3 D₂ P M1 G₃  R₂  S</td>
+  </tr>
+  </tr>
+</table>
+</h4>
 
 |12-1234|12-1234|12-1234|12-1234|
 |---|---|---|---|

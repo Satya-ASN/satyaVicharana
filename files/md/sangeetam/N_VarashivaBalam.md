@@ -1,17 +1,25 @@
 <h2>Varashiva Balam</h2>
 <h3>NottuSwaram</h3>
 <h4>
-Composer: Muthuswami Dikshitar
 <br>
-Talam: Chaturasra Ekam
-<br>
-Ragam: Shankarabharanam (Madhyama Sruthi) 
-<br>
-Aro: S R₂ G₃ M P D₂ N₃ Ṡ
-<br>
-Ava: Ṡ N₃ D₂ P M G₃  R₂  S 
-<br>
-    
+
+<table>
+  <tr>
+    <th>Composer: Muthuswami Dikshitar</th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>Talam: Chaturasra Ekam</td>
+    <td>Raga: Shankarabharanam (Madhyama Sruthi) </td>
+  </tr>
+  <tr>
+    <td>Aro: S R₂ G₃ M P D₂ N₃ Ṡ</td>
+    <td>Ava: Ṡ N₃ D₂ P M G₃  R₂  S </td>
+  </tr>
+  </tr>
+</table>
+</h4>
+   
 |1 2 3 4 | 1 2 3 4 | 1 2 3 4| 1 2 3 4| 1 2 3 4 | 1 2 3 4| 
 |----|----|----|----|----|----|
 G M G M | D , P ,	| G ,  P , | M   ,  R  ,	|  M  , G  , | S ,   S  ,	|

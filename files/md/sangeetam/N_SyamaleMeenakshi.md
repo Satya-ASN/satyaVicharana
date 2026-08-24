@@ -1,12 +1,25 @@
 <h2>Syamale Meenakshi</h2>
+<h3>NottuSwaram</h3>
+<h4>
 <br>
-<h4>NottuSwaram		Composer: Muttuswaami Dikshitar
-<br>
-Raga: Dheera Sanakarabaranam	Tala: Aadi / catushra Eka
-<br>
-Aro: S R₂ G₂ M P D₂ N₂ S		Ava: S N₂ D₂ P M G₂ R₂ S
-<br>
-29 dheera shankaraabharaNam mela
+
+<table>
+  <tr>
+    <th>Composer: Muthuswami Dikshitar</th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>Talam: Aadi / catushra Eka </td>
+    <td>Raga: 29 Dheera Sanakarabaranam mela</td>
+  </tr>
+  <tr>
+    <td>Aro : S R₂ G₂ M P D₂ N₂ Ṡ </td>
+    <td>Ava: Ṡ N₂ D₂ P M G₂ R₂ S</td>
+  </tr>
+  </tr>
+</table>
+
+Pallavi
 </h4>
 
 Shyamale meenakshi sundareswarasakshi
