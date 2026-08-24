@@ -6,10 +6,8 @@
     <td>Composer: Purandhara dāsa </td>
   </tr>
   <tr>
-    <td>Ragam: malahari (melakarta 15, māyāmālava gaula janyarāga) 
-	chatusra jaati roopaka taalam (2-4) 
-	</td>
-    <td>Talam: </td>
+    <td>Ragam: malahari (melakarta 15, māyāmālava gaula janyarāga) </td>
+    <td>Talam: chatusra jaati roopaka taalam (2-4)</td>
   </tr>
   <tr>
     <td>Angams: 1 dhRRitam (2 kaala) + 1 laghu (4 kaala)  </td>

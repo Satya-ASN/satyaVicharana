@@ -1,0 +1,62 @@
+git init
+# first time to initialize git
+
+git clone https://github.com/Satya-ASN/satyaVicharana   
+
+git status
+
+git branch
+
+git checkout <branch name ex: 20240412>
+
+git status
+	Your branch is ahead of
+
+
+git add .
+(or)
+git add --all
+
+git status
+	Changes to be committed: <to branch 20240412>
+
+git commit -m "message"
+
+git push 
+
+
+git switch main
+	Switched to branch 'main'
+	Your branch is up to date with 'origin/main'.
+
+git pull origin main
+
+git merge 20240412
+
+git push origin main
+
+git branch -D master
+
+git add -A
+git commit -m "Save changes"
+git rev-parse --abbrev-ref HEAD
+git log -1 --pretty=format:"%h %s"
+
+
+git remote add origin https://github.com/Satya-ASN/satyaVicharana.git
+git branch -M main
+git push -u origin main
+
+
+https://www.slideshare.net/slideshow/bhadrachala-ramadasukeerthanasvolume1/55963401
+
+
+----------------------------------
+
+$changes = git status --porcelain
+if ($changes) { git add -A; git commit -m "Save changes" }
+else { Write-Output "nothing to commit" }
+
+git rev-parse --abbrev-ref HEAD
+git log -1 --pretty=format:"%h %s"
+

@@ -11,10 +11,6 @@
     <td>Talam: Chaturasra Jathi - Rupakam (2-4) </td>
   </tr>
   <tr>
-    <td>Angams: 1 laghu (3 kāla) + 1 dhṛtam (2 kāla) + 1 dhṛtam (2 kāla) </td>
-    <td> </td>
-  </tr>
-  <tr>
     <td>Aro: S R2 G2 P D2 Ṡ </td>
     <td>Ava: Ṡ D2 P G2 R2 S </td>
   </tr>

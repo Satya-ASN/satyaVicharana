@@ -170,6 +170,7 @@ async function getContentById(contentId, title) {
         'sangeetam-intro': await getSangeetamIntroContent(),
 		'sarali-swaramulu': await getSaraliSwaramuluContent(),
         'Alankaramulu': await getAlankaramuluContent(),
+        'AlankaramuluEx': await getAlankaramuluExerciseContent(),
 
         'RamaJanardhana': await getN_RamaJanardhanaContent(),
         'RaminchuvaaRevaruraa': await getN_RaminchuvaaRevaruraaContent(),
@@ -1011,6 +1012,10 @@ async function getSaraliSwaramuluContent() {
 
 async function getAlankaramuluContent() {
     return loadContent_md_html('md/sangeetam/alankaramulu.md');
+}
+
+async function getAlankaramuluExerciseContent() {
+    return loadContent_md_html('md/sangeetam/alankaramulu_exercise.md');
 }
 
 async function getN_SyamaleMeenakshiContent() {
