@@ -6,8 +6,8 @@
     <td>Composer: Muthuswami Dikshitar</td>
   </tr>
   <tr>
-    <td>Talam: Tisra Adi </td>
     <td>Raga: Sanakarabaranam ( ½ N ) </td>
+    <td>Talam: Tisra Adi </td>
   </tr>
   <tr>
     <td>Aro : S R₂ G₃ M P D₂ N₃ Ṡ </td>

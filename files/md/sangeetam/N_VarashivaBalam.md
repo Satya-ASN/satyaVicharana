@@ -6,8 +6,8 @@
     <td>Composer: Muthuswami Dikshitar</td>
   </tr>
   <tr>
+    <td>Ragam: Shankarabharanam (Madhyama Sruthi) </td>
     <td>Talam: Chaturasra Ekam</td>
-    <td>Raga: Shankarabharanam (Madhyama Sruthi) </td>
   </tr>
   <tr>
     <td>Aro: S R₂ G₃ M P D₂ N₃ Ṡ</td>

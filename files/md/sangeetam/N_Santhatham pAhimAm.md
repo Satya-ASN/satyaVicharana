@@ -6,8 +6,8 @@
     <td>Composer: Muthuswami Dikshitar</td>
   </tr>
   <tr>
-    <td>Talam: Rupakam</td>
     <td>Raga: Sanakarabaranam ( ½ N )</td>
+    <td>Talam: Rupakam</td>
   </tr>
   <tr>
     <td>Aro : S R₂ G₃ M1 P D₂ N*3 Ṡ</td>

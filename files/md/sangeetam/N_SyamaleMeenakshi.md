@@ -6,8 +6,8 @@
     <td>Composer: Muthuswami Dikshitar</td>
   </tr>
   <tr>
-    <td>Talam: Aadi / catushra Eka </td>
     <td>Raga: 29 Dheera Sanakarabaranam mela</td>
+    <td>Talam: Aadi / catushra Eka </td>
   </tr>
   <tr>
     <td>Aro : S R₂ G₂ M P D₂ N₂ Ṡ </td>

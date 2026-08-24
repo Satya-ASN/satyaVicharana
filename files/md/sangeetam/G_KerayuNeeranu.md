@@ -1,19 +1,29 @@
 <h2>Kereya Neeranu</h2>
-<br>
-<h4>Carnatic Music Geethams		Composer: purandhara dāsa
-<br>
-Ragam:  malahari (mēḻakarta 15, māyāmāḻava gauḻa janyarāga)
-<br>
-tāḻam: tisra jāti tripuṭa tāḻam (3-2-2)
-<br>
-aṅgāḥ: 1 laghu (3 kāla) + 1 dhṛtam (2 kāla) + 1 dhṛtam (2 kāla)
-<br>
-Aro: S R1 . . . M1 . P D1 . . . Ṡ		Ava: Ṡ . . . D1 P . M1 G3 . . R1 S
-<br>
-rāgam:
-<br>
-svara sthānāḥ: ṣaḍjam, śuddha ṛṣabham, śuddha madhyamam, pañchamam, śuddha dhaivatam
+<h4>
+<table>
+  <tr>
+    <td>Geetham</td>
+    <td>Composer: Purandhara dāsa </td>
+  </tr>
+  <tr>
+    <td>Ragam: malahari (mElakarta 15, maayaamaalava gaula janyaraagam) </td>
+    <td>Talam: tisra jāti tripuṭa tāḻam (3-2-2) </td>
+  </tr>
+  <tr>
+    <td>Angams: 1 laghu (3 kāla) + 1 dhṛtam (2 kāla) + 1 dhṛtam (2 kāla) </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>Aro: S R1 M1 P D1 Ṡ </td>
+    <td>Ava: Ṡ D1 P M1 G3 R1 S </td>
+  </tr>
+  </tr>
+</table>
 </h4>
+
+svara sthānāḥ: ṣaḍjam, śuddha ṛṣabham, śuddha madhyamam, pañchamam, śuddha dhaivatam
+
+<h4>Sahityam</h4>
 
 pallavi
 hariya karuṇadōḻāda bhāgyava

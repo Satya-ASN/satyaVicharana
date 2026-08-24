@@ -1,21 +1,29 @@
 <h2>Mandara Dhara Re</h2>
-<br>
-<h4>Carnatic Music Geethams		Composer: paiḍala gurumūrti śāstri
-<br>
-Ragam:  kāmbhōjī (mēḻakarta 28, harikāmbhōjī)
-<br>
-tāḻam: chatusra jāti tripuṭa tāḻam (ādi) (4 - 2 - 2)
-<br>
-aṅgāḥ: 1 laghu (4 kāla) + 1 dhṛtam (2 kāla) + 1 dhṛtam (2 kāla)
-<br>
-Aro: S . R2 . G3 M1 . P . D2 . . Ṡ
-<br>
-Ava: Ṡ . N2 D2 . P . M1 G3 . R2 . S (Ṡ N3 . . . P . M1 G3 . R2 . S)
-<br>
-svara sthānāḥ: svara sthānāḥ: ṣaḍjam, kaiśikī niṣādam, chatuśruti dhaivatam, pañchamam, śuddha madhyamam, antara gāndhāram, chatuśruti ṛṣabham, ṣaḍjam
-<br>
-sāhityam
+<h4>
+<table>
+  <tr>
+    <td>Geetham</td>
+    <td>Composer: Paiḍala Gurumūrti śāstri </td>
+  </tr>
+  <tr>
+    <td>Ragam: kāmbhōjī (mēḻakarta 28, harikāmbhōjī) </td>
+    <td>Talam: chatusra jāti tripuṭa tāḻam (ādi) (4 - 2 - 2) </td>
+  </tr>
+  <tr>
+    <td>Angams: 1 laghu (4 kāla) + 1 dhṛtam (2 kāla) + 1 dhṛtam (2 kāla) </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>Aro: S R2 G3 M1 P D2 Ṡ </td>
+    <td>Ava: Ṡ N2 D2 P M1 G3 R2 S (Ṡ N3 P M1 G3 R2 S) </td>
+  </tr>
+  </tr>
+</table>
 </h4>
+
+svara sthānāḥ: svara sthānāḥ: ṣaḍjam, kaiśikī niṣādam, chatuśruti dhaivatam, pañchamam, śuddha madhyamam, antara gāndhāram, chatuśruti ṛṣabham, ṣaḍjam
+
+<h4> Saahityam </h4>
 
 mandara dhārarē mōkṣamu rārē
 daityakulāntaka pāvana mūrtē

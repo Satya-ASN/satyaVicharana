@@ -7,7 +7,7 @@
   </tr>
   <tr>
     <td>Talam: Adi </td>
-    <td>Raga: Sankarabharanam </td>
+    <td>Ragam: Sankarabharanam </td>
   </tr>
   <tr>
     <td>Aro: ( ½ N ) S R₂ G₃ M1P D₂ N*3Ṡ </td>

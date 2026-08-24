@@ -6,11 +6,11 @@
     <td>Composer: Muthuswami Dikshitar</td>
   </tr>
   <tr>
+    <td>Ragam: Subhōshini </td>
     <td>Talam: Trisra Ekam </td>
-    <td>Raga: Subhōshini </td>
   </tr>
   <tr>
-    <td>Aro : S R₂ G₃ M1 P D₂ N*3 Ṡ </td>
+    <td>Aro: S R₂ G₃ M1 P D₂ N*3 Ṡ </td>
     <td>Ava: Ṡ N*3 D₂ P M1 G₃ R₂ S</td>
   </tr>
   </tr>

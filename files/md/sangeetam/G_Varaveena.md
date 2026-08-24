@@ -1,11 +1,28 @@
 <h2>Varaveena</h2>
-<br>
-<h4>Carnatic Music Geethams		Composer: purandhara dāsa
-<br>
-Ragam: Mohanam (28th melakartha janyam)		tāḻam: Chaturasra Jathi - Rupakam (2-4)
-<br>
-Aro: S R2 G2 P D2 S		Ava: S D2 P G2 R2 S
+
+<h4>
+<table>
+  <tr>
+    <td>Geetham</td>
+    <td>Composer: Purandhara dāsa </td>
+  </tr>
+  <tr>
+    <td>Ragam: Mohanam (28th melakartha janyam) </td>
+    <td>Talam: Chaturasra Jathi - Rupakam (2-4) </td>
+  </tr>
+  <tr>
+    <td>Angams: 1 laghu (3 kāla) + 1 dhṛtam (2 kāla) + 1 dhṛtam (2 kāla) </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>Aro: S R2 G2 P D2 Ṡ </td>
+    <td>Ava: Ṡ D2 P G2 R2 S </td>
+  </tr>
+  </tr>
+</table>
 </h4>
+
+<h4>Sahityam</h4>
 
 Varaveena Mrudu Paani Vanaruha Lochana Raani
 Suruchira Bambhara Veni Suranuta Kalyaani

@@ -6,8 +6,8 @@
     <td>Composer: Muthuswami Dikshitar</td>
   </tr>
   <tr>
-    <td>Talam: Tisra Adi </td>
     <td>Raga: 29 Dheera Sanakarabaranam mela</td>
+    <td>Talam: Tisra Adi </td>
   </tr>
   <tr>
     <td>Aro : S R₂ G₃ M1 P D₂ N3 Ṡ </td>
