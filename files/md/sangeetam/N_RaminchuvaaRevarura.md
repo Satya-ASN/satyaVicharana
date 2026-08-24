@@ -1,18 +1,11 @@
-<h2>NottuSwaram</h2>
-
-<h3>Remim Suvā revārura</h3>
-<br>
-
+<h2>Remim Suvā revārura</h2>
+<h3>NottuSwaram</h3>
 <h4>
-Rāgam: Subhōshini
+Composer: Muthuswami Dikshitar
 <br>
-Tāl: Trisra Ekam
-
+Talam: Trisra Ekam		Ragam: Subhōshini 
 <br>
-Aro : S R₂ G₃ M1 P D₂ N*3 Ṡ
-<br>
-Ava: Ṡ N*3 D₂ P M1 G₃  R₂  S 
-<br>
+Aro : S R₂ G₃ M1 P D₂ N*3 Ṡ		Ava: Ṡ N*3 D₂ P M1 G₃  R₂  S 
 <br>
 
 Pallavi

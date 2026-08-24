@@ -1,18 +1,19 @@
-<h2>Kundagowra - Mandara </h2>
-<h3>
-rāgam: malahari (mElakarta 15, maayaamaalava gaula janyaraaga) 
+<h2>Kundagowra - Mandara</h2>
 <br>
-ārohaṇa: S R1 M1 P D1 Ṡ
+<h4>Carnatic Music Geethams		Composer: purandhara dāsa
 <br>
-avarohaṇa: Ṡ D1 P M1 G3 R1 S
+Ragam:  malahari (mElakarta 15, maayaamaalava gaula janyaraaga) 
 <br>
-tālam: chatusra jaati roopaka taalam (2-4) 
+tāḻam: chatusra jaati roopaka taalam (2-4)
 <br>
 aMgaaH: 1 dhRRitam (2 kaala) + 1 laghu (4 kaala) 
 <br>
-rūpakarta: purandhara daasa 
+Aro: S R1 M1 P D1 Ṡ		Ava: Ṡ D1 P M1 G3 R1 S
 <br>
-<h4>sāhityam </h4>
+svara sthānāḥ: ṣaḍjam, śuddha ṛṣabham, śuddha madhyamam, pañchamam, śuddha dhaivatam
+<br>
+sāhityam
+</h4>
 pallavi 
 mandara kusumaakara makarandaM vaasituvaa 
 kundagaura govrivara mandiraaya maanamakuTa 
@@ -21,7 +22,6 @@ hEmakooTa siMhaasana viroopaaksha karuNaakara
 (mandara) 
 candamaama mandaakini mandiraaya maanamakuTa 
 (mandara) 
-<br>
 
 <h4>Swaram</h4>
 

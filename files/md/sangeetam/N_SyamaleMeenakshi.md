@@ -1,39 +1,30 @@
-<h2>NottuSwaram</h2>
-
-<h3>Syamale Meenakshi</h3>
+<h2>Syamale Meenakshi</h2>
 <br>
-<h4>
-Raga: Dheera Sanakarabaranam
+<h4>NottuSwaram		Composer: Muttuswaami Dikshitar
 <br>
-Tala: Aadi / catushra Eka
+Raga: Dheera Sanakarabaranam	Tala: Aadi / catushra Eka
 <br>
-Aro: S R₂ G₂ M P D₂ N₂ S
-<br>
-Ava: S N₂ D₂ P M G₂ R₂ S
+Aro: S R₂ G₂ M P D₂ N₂ S		Ava: S N₂ D₂ P M G₂ R₂ S
 <br>
 29 dheera shankaraabharaNam mela
-<br>
-Composer: Muttuswaami Dikshitar
-<br>
-<br>
+</h4>
+
 Shyamale meenakshi sundareswarasakshi
-<br>
 Shankari guruguha samudhbhave shiveva
-<br>
 pamara mochani pankaja lochani
-<br>
 padmasana vaani hari lakshmi vinuthe shambhavi
-<br>
+
+<h4>Swaram</h4>
 
 |1234 | 1234 |1234 | 1234|1234 | 1234 |1234 | 1234|
 |--|--|--|--|--|--|--|--|
-S , , R | G , M , | P , , , | P , , , | D , , N | s* , s* N | D , P , | M , G ,
-Sya male | mee | na | kshi | sun da | re swara | sa | kshi
-M , D , | M , R , | G , P , | G , S ,| R , M , | R , N , | S , , , | S , , ,
-Shanka | ri gu | ru gu | ha sa | mudhbha | ve shi | ve | va
-P , , , | P , P , | M , , , | M , M ,|G , , , | G , G , | R , , , | R , R ,
-pa | ma ra | mo | cha ni | pan | ka ja | lo | cha ni
-P , , , | P , D P | M , , , | M , P M | G , , , | G , M G | R , , , | R , G R
-pa | dmasana | vaa ni | hari | la | kshmi vinu | the | shambhavi
-Syamale | meenakshi |
+S , , R2 | G2 , M , | P , , , | P , , , | D2 , , N2 | s* , s* N2 | D2 , P , | M , G2 ,
+Sya - - ma| le - mee -| na - - - | kshi - - -| sun - - da | re - swara | sa - - - | kshi - - -
+M , D2 , | M , R2 , | G2 , P , | G2 , S ,| R2 , M , | R2 , N2 , | S , , , | S , , ,
+Shan - ka - | ri - gu - | ru - gu - | ha - sa - | mudh - bha - | ve - shi - | ve - - - | va - - -
+P , , , | P , P , | M , , , | M , M ,|G2 , , , | G2 , G2 , | R2 , , , | R2 , R2 ,
+pa - - - | ma - ra - | mo - - - | cha - ni - | pan - - - | ka - ja - | lo - - - | cha - ni -
+P , , , | P , D2 P | M , , , | M , P M | G2 , , , | G2 , M G2 | R2 , , , | R2 , G2 R2
+pa - - - | dma - sa na | vaa - - - | ni - hari | la - - - | kshmi - vinu | the - - - | sham - bhavi
+Sya - - ma | le - mee | na - - - | kshi - - - |
 </h4>

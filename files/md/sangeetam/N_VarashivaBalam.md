@@ -1,6 +1,5 @@
-<h2>NottuSwaram</h2>
-
-<h3>Varashiva Balam</h3>
+<h2>Varashiva Balam</h2>
+<h3>NottuSwaram</h3>
 <h4>
 Composer: Muthuswami Dikshitar
 <br>

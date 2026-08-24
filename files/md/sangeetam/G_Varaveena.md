@@ -1,14 +1,12 @@
 <h2>Varaveena</h2>
-<h3>
-Ragam: Mohanam  (28th melakartha janyam)
 <br>
-Talam: Chaturasra Jathi - Rupakam  
+<h4>Carnatic Music Geethams		Composer: purandhara dāsa
 <br>
-Arohanam : S R2 G2 PD2 S
+Ragam: Mohanam (28th melakartha janyam)		tāḻam: Chaturasra Jathi - Rupakam (2-4)
 <br>
-Avarohanam: S D2 PG2 R2 S
-</h3>
-<h4>Sahityam </h4>
+Aro: S R2 G2 P D2 S		Ava: S D2 P G2 R2 S
+</h4>
+
 Varaveena Mrudu Paani Vanaruha Lochana Raani
 Suruchira Bambhara Veni Suranuta Kalyaani
 Nirupama Shubha Guna Lola Niratishaya Prada Sheela
@@ -33,13 +31,13 @@ Victory ("jaya") to you.
 
 |12|1234|12|1234|12|1234|12|1234|
 |--|--|--|--|--|--|--|--|
-G  G  |  P  ,  P  ,  |  D  P  |  s*  ,  s*  ,  |r*  s*  |  D  D  P  ,  |  D  P  | G  G  R  ,  |
-Vara  |  vee-na - |Mrudu  |  Pa-ni -|Vana  | ruha  Lo - |chana|Raa-ni - |
-G  P  |  D  s*  D  ,  |  D  P  | G  G  R  ,  |G  G  |  D  P  G  ,  |  P  G  |  G  R  S  ,  |
-Suru|chira  Bam-|bhara|Ve-ni-|Sura | nutha  Kal-|ya-|--ni-|
-G  G  |  G  G  R  G  |  P  G  | P  ,  P  ,  |G  G  |  D  P  D  ,  |  D  P  |  s* ,  s*  ,  |
-Niru |pama Shubha |Guna| Lo-la - |Nira  | thiJaya - |  Prada | See-la - |
-D  g*  |  r*  r*  s*  s*  |  D  s*  | D  D  D  P  |G  P  |  D  s*  D  P  |  D  P  | G  G  R  S  |
-Vara  | da - Priya  |  Ranga  | naa-yaki  |Vaa-|  nchitha  Phala  |Daa-| --yaki  |
-S  R  |  G  ,  G  ,  |  G  R  | P  G  R  ,  |S  R  |  S  G  R  S  |  r* D SS
-Sara  | si-ja  -  |  sana  | Janani  -  |Jaya  | jaya jaya  | vaani
+G2 G2 | P , P , | D2 P | s* , s* , |r2* s* | D2 D2 P , | D2 P | G2 G2 R2 , |
+Vara | vee-na - |Mrudu | Pa-ni - |Vana | ruha Lo - |chana|Raa - ni - |
+G2 P | D2 s* D2 , | D2 P | G2 , R2 , |G2 G2 | D2 P G2 , | P G2 | G2 R2 S , |
+Suru|chira Bam-|bhara|Ve-ni-|Sura | nutha Kal - |ya - |- - ni - |
+G2 G2 | G2 G2 R2 G2 | P G2 | P , P , |G/P G2 | D2 P D2 D2 | D2 P | s* , s* , |
+Niru |pama Shubha |Guna| Lo-la - |Nira | thiJaya - | Prada | See - la - |
+D2 g* | r2* r2* s* s* | D2 s* | D2 D2 D2 P |G2 P | D2 s* D2 P | D2 P | M G2 G2 R2 |
+Vara | da - Priya | Ranga | naa - yaki |Vaa - | nchitha Phala |Daa - |- - yaki |
+S R2 | G2 , G2 , | G2 R2 | P G2 R2 , |S R2 | S G2 R2 S | *r~*d *s *s
+Sara | si - ja - | sana | Janani - |Jaya | jaya jaya | vaa ni

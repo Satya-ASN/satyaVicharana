@@ -1,17 +1,14 @@
-<h2>NottuSwaram</h2>
-
-<h3>Song: sakthi sahitha Ganapathim</h3>
-<br>
+<h2>sakthi sahitha Ganapathim</h2>
+<h3>NottuSwaram</h3>
 <h4>
+Composer: Muthuswami Dikshitar
+<br>
+Talam: Tisra Adi
+<br>
 Raga: Sanakarabaranam ( ½ N )
 <br>
-Tala: Tisra Adi
+Aro: S R₂ G₃ M P D₂ N₃ Ṡ		Ava: Ṡ N₃ D₂ P M G₃  R₂  S 
 <br>
-Aro: S R₂ G₃ M P D₂ N₃ Ṡ
-<br>
-Ava: Ṡ N₃ D₂ P M G₃  R₂  S 
-<br>
-Composer: Muttuswaami Dikshitar
 <br>
 
 |123|123|123|123|123|123|123|123|

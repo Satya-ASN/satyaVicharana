@@ -1,20 +1,20 @@
 <h2>Srī Gaṇanātha</h2>
-<h3>
-rāgam: malahari (melakarta 15, māyāmālava gaula janyarāga)
 <br>
-ārohaṇa: S R1 M1 P D1 Ṡ
+<h4>Carnatic Music Geethams		Composer: purandhara dāsa
 <br>
-avarohaṇa: Ṡ D1 P M1 G3 R1 S
+Ragam:  malahari (melakarta 15, māyāmālava gaula janyarāga)
 <br>
-tālam: chatusra jaati roopaka taalam (2-4) 
+tāḻam: chatusra jaati roopaka taalam (2-4) 
 <br>
-aMgaaH: 1 dhRRitam (2 kaala) + 1 laghu (4 kaala) 
+aṅgāḥ: 1 dhRRitam (2 kaala) + 1 laghu (4 kaala) 
 <br>
-rūpakarta: purandhara dāsa
+Aro: S R1 M1 P D1 Ṡ		Ava: Ṡ D1 P M1 G3 R1 S
 <br>
-</h3>
-<h4>sāhityam </h4>
+svara sthānāḥ: svara sthānāḥ: ṣaḍjam, kaiśikī niṣādam, chatuśruti dhaivatam, pañchamam, śuddha madhyamam, antara gāndhāram, chatuśruti ṛṣabham, ṣaḍjam
 <br>
+sāhityam
+</h4>
+
 pallavi
 lambodara lakumikara		ambāsuta amaravinuta
 a protruding belly (“lambodara”). You hold goddess lakshmi (“lakumi”) in your hand (“kara”). O son of Parvathi (“amba sutha”) you are worshipped by (“vinutha”) the gods (“amara”).

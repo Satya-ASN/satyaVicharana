@@ -1,11 +1,13 @@
 <h2>RamaJanArdhana<h2>
-<h3>
-Sankarabharanam ( ½ N )
-<br> S R₂ G₃ M1 P D₂ N3 Ṡ
-<br> Ṡ N3 D₂ P M1 G₃ R₂ S
-<br>
-Talam:Tisra Adi
+<h3>NottuSwaram</h3>
 <h4>
+Composer: Muthuswami Dikshitar
+<br>
+Talam: Tisra Adi
+<br>
+Aro: S R₂ G₃ M1 P D₂ N3 Ṡ		Ava: Ṡ N3 D₂ P M1 G₃ R₂ S
+<br>
+</h3>
 
 |123|123|123|123|123|123|123|123|
 |----|----|----|----|----|----|----|----|
