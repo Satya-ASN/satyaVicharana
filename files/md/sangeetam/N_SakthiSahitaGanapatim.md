@@ -7,7 +7,7 @@
   </tr>
   <tr>
     <td>Raga: Sanakarabaranam ( ½ N ) </td>
-    <td>Talam: Tisra Adi </td>
+    <td>Talam: Tisra Eka </td>
   </tr>
   <tr>
     <td>Aro : S R₂ G₃ M P D₂ N₃ Ṡ </td>
@@ -17,18 +17,17 @@
 </table>
 </h4>
 
-
 |123|123|123|123|123|123|123|123|
 |---|---|---|---|---|---|---|---|
-G , G 	|	G M G 	|	R  S  R |	S , , | n , S 	|	R , n 	|	S , R 	|	G , S
-sakthi 	|	sahitha |	Gana pa |	thim | sanka 	|	rAdi 	|	sEvi 	|	tham vi
-G , G	|	G  M  G	|	R  S  R	|	S  R G | M , G 	|	R G S 	|	p S  n 	|	S  ,  ,
-raktha 	|	sakala 	|	muni va	|	ra sura | rAja 	|	vinutha	|	Guru 	|	gu ham
-R , ,	|	n , p 	|	S , G 	|	R , , | R G R 	|	n , p 	|	S , G 	|	R ,  ,
-bhak 	|	thAni 	|	pOsha 	|	Kam  | bhava su| tham  vi 	|	nAya 	|	kam
-P  D  P |	M   P  M 	|G  M  G 	|	R ,  , | S  R S 		|	n S  n 		|	p d n 	|	S ,  ,
-bhakthimuk|	thi pradam |bhooshi than |	gam | raktha pa	|	dAmbujam	|	bhAvayA |	Mi
-sakthi 	|	sahitha |
+G , G | G M G | R s* R | s* , , | n* , s* | R , s* | s* , R | G , s*
+sa - kthi | sa hi tha | Ga na pa | thim - - | san - ka |rA - di| sE - vi | tham - vi
+G , G | G M G | R s* R | s* R G | M , G | R G s* | p* s* n* | s* , ,
+ra - ktha | sa ka la | mu ni va | ra su ra | rA - ja | vi nu tha | Gu ru gu | ham - -
+R , , | n* , p* | s* , G | R , , | R G R | n* , p* | s* , G | R , ,
+bhak - - | thA - ni | pO - sha | Kam - - | bha va su| tham - vi | nA - ya | kam - -
+P D P | M P M |G M G | R , , | s* R s* | n* s* n* | p* d* n* | s* , ,
+bha kthi mu| kthi pra dam |bhoo shi tha | ngam - - | rak tha pa | dAm bu jam | bhA va yA | Mi - -
+sakthi | sahitha |
 
 
 

@@ -36,7 +36,7 @@ padaśubharēkha makuṭamayūra
 |----|----|----|---|----|----|----|
 s* , N P |D2 D2 |s* , || D2  s* r2* g3* |m1* g3* |g3* r2* |
 maṃ - da ra|dha ra|rē -| | mō - kṣa mu|rā -|- rē|
-s* r2* s* s* |N N |D2 P || D2 D2 P  M | G3  M | P  , |
+s* r2* s* s* |N N |D2 P | | D2 D2 P  M | G3  M | P  , |
 dai - tya ku|lāṃ -|ta ka| | pā - va na|mū -|rtē -|
 G3  P  D2  s* | N  N | D2  P | | D2  D2  P  P | M  G3 | R2  S |
 pa da śu bha|rē -|- kha| | ma ku ṭa ma|yū -|- ra|

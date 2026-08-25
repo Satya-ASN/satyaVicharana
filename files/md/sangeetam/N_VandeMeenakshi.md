@@ -17,80 +17,21 @@
 </table>
 </h4>
 
-
-S , G , S , G , | S , G , | M G R S
-vandE meenA | kshi tvAm | sarasija
-Ṇ , R , Ṇ , R , | Ṇ, R , | G R S Ṇ
-vaktrE parNE | durgE | nata sura
-S , G , S, G , | S R G M | P , , ,
-bRndE saktE | guru guha | pA
-4
-M G R S G R S Ṇ
-S , , ,
-, , , ,
-lini
-jala ruha chara nE
-. . .
-5
-Ṡ, N D P , M ,
-G , M ,
-P , D ,
-sundara
-pANDyA nandE
-mAyE
-6
-Ṡ, N D P , M ,
-P , , ,
-, , , ,
-sUri
-janAdhA rE
-. . . .
-7
-Ṡ, N D P , P M
-G , M
-M P , D ,
-sundara
-rAja sa hOdari
-Gauri
-8
-M G R S G R S Ṇ
-S , , ,
-, , , ,
-Subha
-kari satatama ham
-. . . .
-
-
-
-Nottuswaram 
-Vande Meenakshi 
-||S   G      S    G                  
-||vandE mInA kshi             
-||n R       n R                       
-||vaktrE parNE                  
-||S   G    S   G                     
-||bRndE saktE                   
-||M G R S   G R S N           
-S   G      M   G   R   S  
-tvam     sarasija 
-n   R     G R    S  N  
-durgE   nata  sura 
-S  R    G M P  P  
-guru  guha  Paa 
-S,    S,  
-||lini jala     ruha chara    NE 
-||S , N D   P , M                 
-||sundara  pANDyA         
-||S , N D   P , M                 
-||sUri  janAdhA                 
-||S , N D    P , P M            
-||sundara rAja sa           
-G  M    P   D  
-nandE  mAyE 
-P , P ,  
-rE 
-G , M M P  
-hOdari gauri 
-||M G R S      G R S n       S , S , 
-||Subha kari satataM       
-aham 
+||||||
+|---|---|---|---|---|
+S G | S G | S G | M G  |R S
+vandE | mInA | kshi tvam | sara |sija
+n R | n R | n R | G R | S N
+vaktrE | parNE | durgE | nata | sura
+S G  |S G | S R | G M | P P
+bRndE | saktE | guru | guha | Paa
+M G | R S | G R | S N | S, S,
+lini | jala | ruha | chara | NE - -
+S , | N D | P , M | G M | P D
+sun |dara | pANDyA | nandE | mAyE
+S , N | D P , M | P , P ,
+sUri | janAdhA  |rE - -
+S , N D | P , P M | G , M | M P
+sundara | rAja sa  |hOdari | gauri
+M G  |R S | G R | S n | S , S ,
+Subha | kari | sata | taM | aham - -

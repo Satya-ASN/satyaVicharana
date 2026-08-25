@@ -20,15 +20,15 @@
 |1 2 3 4 | 1 2 3 4 | 1 2 3 4| 1 2 3 4| 1 2 3 4 | 1 2 3 4| 
 |----|----|----|----|----|----|
 G M G M | D , P ,	| G ,  P , | M   ,  R  ,	|  M  , G  , | S ,   S  ,	|
-Vara shiva | Balam 	| Valli  | Lo lam  	|Van de  |  Nandam    |
+Va ra shi va | Ba - lam - | Val - li - | Lo - lam - |Van - de - | Nan - dam -  |
 |
 G M G M  | D , P ,     |  G ,   P , | M ,  R   , | S G   S G  |  S , , , |
-Hari Hara | Modham  | Hamsa  | Nandam   | Hasa samu |  Kam   |
+Ha ri Ha ra | Mo - dham - | Ham - sa - | Nan - dam - | Ha sa sa mu |  Kam - - - |
 |
 N s* N s*  | g*  ,  r* , | N  ,  r* ,  |  s* ,  D  ,  	| s* , N , | P  ,  P  ,	  |
-Guru guha  | Roopam  | Gupta | Kaaram   | Gho ra  | Kshantam  |
+Gu ru gu ha  | Roo - pam - | Gup - ta - | Kaa - ram  - | Gho - ra - | Kshan - tam - |
 |
 N s* N s*   | g*  ,  r* ,  | N  ,  r* ,  |  s* ,  D  , 	| P D P D | s* , , , |
-Sura pati | Senam     | Subra  | manyam	| Sura vinu | tam     |
+Su ra pa ti | Se - nam -  | Su - bra - | man - yam - | Su ra vi nu | tam - - - |
 
 </h4>

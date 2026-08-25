@@ -171,6 +171,7 @@ async function getContentById(contentId, title) {
 		'sarali-swaramulu': await getSaraliSwaramuluContent(),
         'Alankaramulu': await getAlankaramuluContent(),
         'AlankaramuluExercise': await getAlankaramuluExerciseContent(),
+        'HechuSthayi': await getHechuSthayiContent(),
 
         'RamaJanardhana': await getN_RamaJanardhanaContent(),
         'RaminchuvaaRevaruraa': await getN_RaminchuvaaRevaruraaContent(),
@@ -199,6 +200,7 @@ async function getContentById(contentId, title) {
 
         'MS_maatemantramu': await getMS_maatemantramuContent(),
         'MS_yedutanilichindi_choodu': await getMS_yedutanilichindi_chooduContent(),
+        'MS_AnjaliAnjali': await getAnjaliAnjaliContent(),
     };
     
     // Return specific content or generate placeholder
@@ -1016,6 +1018,14 @@ async function getAlankaramuluContent() {
 
 async function getAlankaramuluExerciseContent() {
     return loadContent_md_html('md/sangeetam/alankaramulu_exercise.md');
+}
+
+async function getAnjaliAnjaliContent() {
+    return loadContent_md_html('md/sangeetam/MS_AnjaliAnjali.md');
+}
+
+async function getHechuSthayiContent(){
+    return loadContent_md_html('md/sangeetam/HechuSthayi.md');
 }
 
 async function getN_SyamaleMeenakshiContent() {
