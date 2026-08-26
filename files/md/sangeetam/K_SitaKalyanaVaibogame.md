@@ -15,7 +15,7 @@ Av: S N3 D2 P M1 G3 R2 S
 <br>
 Taalam : Jhampa
 <br>
-Composer : Tyagaraja
+Composer : శ్రీ Tyagaraja
 <br>
 </h3>
 

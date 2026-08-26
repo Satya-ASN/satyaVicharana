@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>Geetham</td>
-    <td>Composer: Purandhara dāsa </td>
+    <td>Composer: శ్రీ Purandhara dāsa </td>
   </tr>
   <tr>
     <td>Ragam: Mohanam (28th melakartha janyam) </td>

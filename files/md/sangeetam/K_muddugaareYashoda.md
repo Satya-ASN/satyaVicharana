@@ -15,7 +15,7 @@ Av: D2 P M1 G3 R2 S N3 S
 <br>
 taaLam:​
 <br>
-Composer: Annamaacaarya
+Composer: శ్రీ Annamaacaarya
 <br>
 
 | -- |  -- |  -- |  -- |  -- |  -- |  -- | 

@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>NottuSwaram</td>
-    <td>Composer: Muthuswami Dikshitar</td>
+    <td>Composer: శ్రీ Muthuswami Dikshitar</td>
   </tr>
   <tr>
     <td>Talam: Adi </td>

@@ -15,8 +15,8 @@ Meter: 2/4
 g p S | n S n  p | dn2 d pmg | g p S | G R Sn p | dn2 d pmg
 anjali | anjali | pushpaanjali | anjali | anjali | pushpaanjali
 
-s rg  g  m  m    p    pr  r   r r  s rg  g  m m m  p  p rr   r r
-poove un paadhaththil pushpaanjali ponne un peyarukku ponnaanjali
+s rg  g  | m  m    p    | pr  r   r r  s rg  g  m m m  p  p rr   r r
+poove un | paadhaththil pushpaanjali ponne un peyarukku ponnaanjali
 
 s rg  g  m m m  p  pr r    r r  sr  g  g   mm   m   p  p r r    r r
 kaNNe un kuralukku geethaanjali kaN kaaNaa azhaghirkku kavithaanjali

@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>Geetham</td>
-    <td>Composer: Purandhara dāsa </td>
+    <td>Composer: శ్రీ Purandhara dāsa </td>
   </tr>
   <tr>
     <td>Ragam: malahari (melakarta 15, māyāmālava gaula janyarāga) </td>

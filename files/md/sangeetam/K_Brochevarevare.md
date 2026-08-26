@@ -9,7 +9,7 @@ AVA :   S N2 D2 P M1 G3 R3 S              ||
 <br>
 Talam: Adi (2 kalai)
 <br>
-Composer: Mysore Vasudevacharya
+Composer: శ్రీ Mysore Vasudevacharya
 <br>
 Version: T M Krishna
 <br>

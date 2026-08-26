@@ -1,6 +1,6 @@
 <h2>Lingastakam</h2>
 
-<h3>Notations: s r2 g2 p d2
+<h3>Notations: s r2 g2 p d2 s*
 </h3>
 <h4>
 

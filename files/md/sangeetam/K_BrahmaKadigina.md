@@ -10,7 +10,7 @@ AVAROHANA:  S N2 D1 P M1 G2 R2 S
 <h4>
 Talam: Adi
 <br>
-Composer:  Annamacharya
+Composer:  శ్రీ Annamacharya
 <br>
 raagam: mukhaari
 <br>

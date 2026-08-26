@@ -5,7 +5,7 @@ raagam: punnaagavaraaLi
 Aa: N2 , S R1 G2 M1 P D1 N2
 Av: N2 D1 P M1 G2 R1 S N2 ,
 taaLam: aadi
-Composer: Tyaagaraaja
+Composer: శ్రీ Tyaagaraaja
 </h3>
 
 https://www.youtube.com/watch?v=tUIjA_bHcUs&t=1s

@@ -1,34 +1,56 @@
 <h2>సరళీ స్వరాః - Sarali Swaramulu</h2>
 <br>
 <h4>
-rāgam: māyā māḻava gauḻa (mēḻakarta 15)
+<table>
+  <tr>
+    <td>Ragam: māyā māḻava gauḻa (mēḻakarta 15) </td>
+    <td>రాగం: మాయా మాళవ గౌళ (మేళకర్త 15) </td>
+  </tr>
+  <tr>
+    <td>Arōhaṇa: S R1 . . G3 M1 . P D1 . . N3 Ṡ </td>
+    <td>ఆరోహణ: స రి1 . . గ3 మ1 . ప ద1 . . ని3 స' </td>
+  </tr>
+  <tr>
+    <td>Avarōhaṇa: Ṡ N3 . . D1 P . M1 G3 . . R1 S </td>
+    <td>అవరోహణ: స' ని3 . . ద1 ప . మ1 గ3 . . రి1 స </td>
+  </tr>
+  <tr>
+    <td>tāḻam: ādi </td>
+    <td>తాళం: ఆది </td>
+  </tr>
+  <tr>
+    <td>aṅgāḥ: 1 laghu (4 kāla) + 1 dhṛtam (2 kāla) + 1 dhṛtam (2 kāla) </td>
+    <td>అంగాః: 1 లఘు (4 కాల) + 1 ధృతం (2 కాల) + 1 ధృతం (2 కాల) </td>
+  </tr>
+</table>
+
 <br>
-రాగం: మాయా మాళవ గౌళ (మేళకర్త 15)
-<br>
-svara sthānāḥ: ṣaḍjam, śuddha ṛṣabham, antara gāndhāram, śuddha madhyamam, pañchamam, śuddha dhaivatam, kākali niṣādam
-<br>
-స్వర స్థానాః: షడ్జం, శుద్ధ ఋషభం, అంతర గాంధారం, శుద్ధ మధ్యమం, పంచమం, శుద్ధ ధైవతం, కాకలి నిషాదం
-<br>
-<br>
-ārōhaṇa: S R1 . . G3 M1 . P D1 . . N3 Ṡ
-<br>
-ఆరోహణ: స రి1 . . గ3 మ1 . ప ద1 . . ని3 స'
-<br>
-avarōhaṇa: Ṡ N3 . . D1 P . M1 G3 . . R1 S
-<br>
-అవరోహణ: స' ని3 . . ద1 ప . మ1 గ3 . . రి1 స
-<br>
-<br>
-tāḻam: ādi
-<br>
-తాళం: ఆది
-<br>
-aṅgāḥ: 1 laghu (4 kāla) + 1 dhṛtam (2 kāla) + 1 dhṛtam (2 kāla)
-<br>
-అంగాః: 1 లఘు (4 కాల) + 1 ధృతం (2 కాల) + 1 ధృతం (2 కాల)
-<br>
+
+<table>
+<tr>
+<td> svara sthānāḥ: </td>
+<td> ṣaḍjam </td>
+<td> śuddha ṛṣabham </td>
+<td> antara gāndhāram </td>
+<td> śuddha madhyamam </td>
+<td> pañchamam </td>
+<td> śuddha dhaivatam </td>
+<td> kākali niṣādam </td>
+</td>
+
+<tr>
+<td> స్వర స్థానాః: </td>
+<td> షడ్జం </td>
+<td> శుద్ధ ఋషభం </td>
+<td> అంతర గాంధారం </td>
+<td> శుద్ధ మధ్యమం </td>
+<td> పంచమం </td>
+<td> శుద్ధ ధైవతం </td>
+<td> కాకలి నిషాదం </td>
+</tr>
+</table>
+
 </h4>
-<h3>
 <br>
 
 1

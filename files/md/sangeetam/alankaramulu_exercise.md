@@ -31,6 +31,8 @@ P M G R | G M | P M G M | P M G R |
 M G R S | R G | M G R G | M G R S |
 
 
+<br>
+
 <h4> chaturasra jāti maṭya tāḻam </h4> 
 aṅgāḥ: 1 laghu (4 kāla) + 1 dhṛtam (2 kāla) + 1 laghu (4 kāla) = 10 kāla
 
@@ -47,6 +49,7 @@ D P M P | D P | D P M G |
 P M G M | P M | P M G R | 
 M G R G | M G | M G R S |
 
+<br>
 
 <h4> chaturasra jāti rūpaka tāḻam </h4> 
 aṅgāḥ: 1 laghu (2 kāla) + 1 dhṛtam (4 kāla) = 6 kāla
@@ -64,6 +67,7 @@ D P | D P M G |
 P M | P M G R | 
 M G | M G R S |
 
+<br>
 
 <h4> miśra jāti jhampa tāḻam </h4> 
 aṅgāḥ: 1 laghu (7 kāla) + 1 anudhṛtam (1 kāla) + 1 dhṛtam (2 kāla) = 10 kāla
@@ -81,6 +85,8 @@ D P M D P D P | M | G , |
 P M G P M P M | G | R , | 
 M G R M G M G | R | S , |
 
+<br>
+
 <h4> tisra jāti tripuṭa tāḻam </h4> 
 aṅgāḥ: 1 laghu (3 kāla) + 1 dhṛtam (2 kāla) + 1 dhṛtam (2 kāla) = 7 kāla
 
@@ -97,6 +103,7 @@ D P M | D P | M G |
 P M G | P M | G R | 
 M G R | M G | R S |
 
+<br>
 
 <h4> khaṇḍa jāti aṭa tāḻam </h4> 
 aṅgāḥ: 1 laghu (5 kāla) + 1 laghu (5 laghu) + 1 dhṛtam (2 kāla) + 1 dhṛtam (2 kāla) = 14 kāla
@@ -114,6 +121,7 @@ D P , M , | D , P M , | G , | G , |
 P M , G , | P , M G , | R , | R , | 
 M G , R , | M , G R , | S , | S , |
 
+<br>
 
 <h4> chaturasra jāti ēka tāḻam </h4> 
 aṅgāḥ: 1 laghu (4 kāla)
@@ -131,6 +139,7 @@ D P M G |
 P M G R | 
 M G R S |
 
+<br>
 
 <h4> sankīrṇa jāti ēka tāḻam </h4> 
 aṅgāḥ: 1 laghu (9 kāla)

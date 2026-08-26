@@ -9,7 +9,7 @@ avarōhaṇa: Ṡ . N2 D2 . P . M1 G3 . R2 . S
 <br>
 tāḻam: chatusra jāti tripuṭa tāḻam (ādi)
 <br>
-rūpakarta: chinnakṛṣṇa dāsar
+rūpakarta: శ్రీ chinnakṛṣṇa dāsar
 <br>
 <br>
 pallavi

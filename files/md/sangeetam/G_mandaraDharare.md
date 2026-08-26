@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>Geetham</td>
-    <td>Composer: Paiḍala Gurumūrti śāstri </td>
+    <td>Composer: శ్రీ Paiḍala Gurumūrti śāstri </td>
   </tr>
   <tr>
     <td>Ragam: kāmbhōjī (mēḻakarta 28, harikāmbhōjī) </td>
