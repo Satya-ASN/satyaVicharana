@@ -30,18 +30,18 @@ Thamāra Varula Kappeno ‖ Thyāgarāja Sannutha ‖ (Reminsuva)
 
 |1 2 3 | 1 2 3 | 1 2 3|1 2 3 | 1 2 3 | 1 2 3|1 2 3 | 1 2 3 |
 |---|---|---|---|---|---|---|---|
-S    R ,   |  S  M ,   |  P  D  N   |  P , , | s* D ,  |  N P  ,   |  M  M  S  |  M  ,  , | 
-Ra min | chu  vāa | re va  ru | rāa . | Raghoth |  tha  māa |  Ninnu  Vi |  nāa . |
+S R2 , | S M1 , | P D2 N3 | P , , | s* D2 , | N3 P , | M1 M1 S | M1 , , | 
+Ra min | chu vāa | re va ru | rāa . | Raghoth | tha māa | N3innu Vi | nāa . |
 (Remim)
-M   N ,  | D   s* ,  | r*  r* D  |  s* , , | s*  m*  s* |  D   N  P  |  M   M   S |  M , , | 
-Sa  māa |  dhi shat |  Gu na ga |   nāa | Sa ka la |  Bhu va na |  Ja nu  la |  lo  |
+M1 N3 , | D2 s* , | r2* r2* D2 | s* , , | s* m1* s* | D2 N3 P | M1 M1 S | M1 , , | 
+Sa māa | dhi shat | Gu na ga | nāa | Sa ka la | Bhu va na | Ja nu la | lo |
 (Remim)
-P  P P | D N   P | M   M  S  | M , , | S   ,   R | S    M   , | P   D   N | P   P   P | 
-Ramayu | ne  Su  | Mar ma | mu . | Rāa ma | ya     ne | Sar  ma | mu . | 
+P P P | D2 N3 P | M1 M1 S | M1 , , | S , R2 | S M1 , | P D2 N3 | P P P | 
+Ramayu | ne Su | M1ar ma | mu . | Rāa ma | ya ne | Sar ma | mu . | 
 |
-P P P | D  N P  |  M  M S | M , , | S   ,   R | S    M  ,	 |  P   D   N | P   P   P | 
-Ramayu | ne . Su | Mar . ma | mu . |Rāa   ma | ya   ne | Sar   ma | mu la sa | 
+P P P | D2 N3 P | M1 M1 S | M1 , , | S , R2 | S M1 , | P D2 N3 | P P P | 
+Ramayu | ne . Su | Mar . ma | mu . |Rāa ma | ya ne | Sar ma | mu la sa | 
 |
-M   N   D | D   s*   s*  |  r*    r*   D | s*  ,  , | s*   m*   s* | D   N   P | M   M   S  |  M , , | 
-Thama ra | Va   ru  la |  Kap   pe | no . | Thyā ga | rā   ja | San nu | thāa |
+M1 N3 D2 | D2 s* s* | r2* r2* D2 | s* , , | s* m1* s* | D2 N3 P | M1 M1 S | M1 , , | 
+Thama ra | Va ru la | Kap pe | no . | Thyā ga | rā ja | San nu | thāa |
 (Remim)
