@@ -1,0 +1,24 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Start Simple HTTP Server",
+      "type": "shell",
+      "command": "python -m http.server 8080",
+      "options": {
+        "cwd": "${workspaceFolder}/files"
+      },
+      "isBackground": true,
+      "problemMatcher": {
+        "owner": "custom",
+        "pattern": {
+          "regexp": "."
+        },
+        "background": {
+          "beginsPattern": "Serving HTTP on",
+          "endsPattern": ""
+        }
+      }
+    }
+  ]
+}

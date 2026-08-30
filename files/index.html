@@ -23,6 +23,27 @@
                 <h1 class="main-title">SIVOHAM</h1>
                 <p class="subtitle">OM SRI GURUBHYO NAMAHA</p>
                 
+                <style>
+                    #panchangam-btn{
+                        background:#c9bce8;
+                        color:#2b2158;
+                        border:none;
+                        padding:14px 30px;
+                        font-size:1.15rem;
+                        font-weight:600;
+                        border-radius:999px;
+                        cursor:pointer;
+                        font-family:'Noto Sans Telugu', sans-serif;
+                    }
+                    #panchangam-btn:hover{
+                        background:#d8cef2;
+                    }
+                    </style>
+
+                    <button id="panchangam-btn">ఈరోజు పంచాంగం</button>
+                    <script src="js/panchangam-engine.min.js"></script>
+                    <script src="js/panchangam-widget.js"></script>
+
                 <!-- div class="features">
                     <div class="feature">
                         <span class="feature-icon">📚</span>
@@ -94,6 +115,8 @@
         <div class="circle circle-2"></div>
         <div class="circle circle-3"></div>
     </div>
-    <div id="birds-display" class="content-section" style="display:none;"></div>
+
+    <div id="birds-display" class="content-section" style="display:none;">
+    </div>
 </body>
 </html>
