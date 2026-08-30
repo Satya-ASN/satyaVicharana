@@ -10,7 +10,7 @@
     <td>Ragam: Sankarabharanam </td>
   </tr>
   <tr>
-    <td>Aro: ( ½ N ) S R₂ G₃ M1P D₂ N*3Ṡ </td>
+    <td>Aro: ( ½ N ) S R₂ G₃ M1 P D₂ N*3 Ṡ </td>
     <td>Ava: ṠN*3D₂ P M1G₃ R₂ S </td>
   </tr>
   </tr>
@@ -19,19 +19,19 @@
 
 ||||||
 |---|---|---|---|---|
-S G | S G | S G | M G  |R S
+S G3 | S G3 | S G3 | M1 G3  |R2 S
 vandE | mInA | kshi tvam | sara |sija
-n R | n R | n R | G R | S N
+n R2 | n R2 | n R2 | G3 R2 | S N
 vaktrE | parNE | durgE | nata | sura
-S G  |S G | S R | G M | P P
+S G3  |S G3 | S R2 | G3 M1 | P P
 bRndE | saktE | guru | guha | Paa
-M G | R S | G R | S N | S, S,
+M1 G3 | R2 S | G3 R2 | S N | S, S,
 lini | jala | ruha | chara | NE - -
-S , | N D | P , M | G M | P D
+S , | N D2 | P , M1 | G3 M1 | P D2
 sun |dara | pANDyA | nandE | mAyE
-S , N | D P , M | P , P ,
+S , N | D2 P , M1 | P , P ,
 sUri | janAdhA  |rE - -
-S , N D | P , P M | G , M | M P
+S , N D2 | P , P M1 | G3 , M1 | M1 P
 sundara | rAja sa  |hOdari | gauri
-M G  |R S | G R | S n | S , S ,
+M1 G3  |R2 S | G3 R2 | S n | S , S ,
 Subha | kari | sata | taM | aham - -

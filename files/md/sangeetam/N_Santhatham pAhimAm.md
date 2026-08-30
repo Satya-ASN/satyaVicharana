@@ -19,11 +19,11 @@
 
 |12-1234|12-1234|12-1234|12-1234|
 |---|---|---|---|
-S , S , R , | Ṇ , , S R , | G , G , M ,| G , , R S ,
+S , S , R2 , | *n3 , , S R2 , | G3 , G3 , M1 ,| G3 , , R2 S ,
 santhatham | pAhimAm | sangeetha | syAmalE
-R , S , Ṇ , | S , , P̣ Ḍ Ṇ | R , S , Ṇ , | S , - -
+R2 , S , *n3 , | S , , P̣ *d2 *n3 | R2 , S , *n3 , | S , - -
 sarvAdhA rE | Janani | sarvAdhA | rE
-P , P , P , | P , , M G , | M , M , M ,| M , , G R ,
+P , P , P , | P , , M1 G3 , | M1 , M1 , M1 ,| M1 , , G3 R2 ,
 chinthinthAr | dha pradE | Chith-rUpi | nee sivE
-G , M G R S | G , , M P , | D P M , G , | R , S , , ,
+G3 , M1 G3 R2 S | G3 , , M1 P , | D P M1 , G3 , | R2 , S , , ,
 SreeGuruhuha | sEvithE | Siva mOha | kA rE
