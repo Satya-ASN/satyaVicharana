@@ -54,3 +54,4 @@ D2 g* | r2* r2* s* s* | D2 s* | D2 , D2 P |G2 P | D2 s* D2 P | D2 P | G2 G2 R2 S
 Vara | da - Priya | Ranga | naa - ya ki |Vaa - | nchi tha Pha la |Daa - |- - ya ki |
 S R2 | G2 , G2 , | G2 R2 | P G2 R2 , |S R2 | S G2 R2 S | *r~D S S
 Sara | si - ja - | sana | Janani - |Jaya | jaya jaya | vaa ni
+

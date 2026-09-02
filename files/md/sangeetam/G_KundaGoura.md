@@ -39,15 +39,15 @@ candamaama mandaakini mandiraaya maanamakuTa
 
 |12|1234|12|1234|12|1234|12|1234|
 |----|----|----|----|----|----|----|----|
-D1 P | M1 G3 R1 S | R1 M1 | P D1 M1 P |D1 Ṙ | Ṙ Ṡ D1 P | D1 P | M1 G3 R1 S |
+D1 P | M G3 R1 S | R1 M | P D1 M P |D1 r*1 | r*1 s* D1 P | D1 P | M G3 R1 S |
 kuM da | gau - - ra | gau - | ree - va ra |maM di | raa - - ya | maa - | na ma ku Ta |
 pallavi
-S , | R1 , R1 , | D1 P | M1 G3 R1 S |S R1 | M1 , G3 R1 | S R1 | G3 R1 S , |
+S , | R1 , R1 , | D1 P | M G3 R1 S |S R1 | M , G3 R1 | S R1 | G3 R1 S , |
 maM - | daa - ra - | ku su | maa - ka ra |ma ka | raM - daM - | vaa - | si tu vaa - |
 mandara
-D1 P | M1 G3 R1 S | R1 M1 | P D1 M1 P |D1 Ṙ | Ṙ Ṡ D1 P | D1 P | M1 G3 R1 S |
+D1 P | M G3 R1 S | R1 M | P D1 M P |D1 r*1 | r*1 s* D1 P | D1 P | M G3 R1 S |
 hE - | ma koo - Ta | siM - | haa - sa na |vi roo | paa - - kshha | ka ru | Naa - ka ra |
 mandara
-D1 P | M1 G3 R1 S | R1 M1 | P D1 M1 P |D1 Ṙ | Ṙ Ṡ D1 P | D1 P | M1 G3 R1 S |
+D1 P | M G3 R1 S | R1 M | P D1 M P |D1 r*1 | r*1 s* D1 P | D1 P | M G3 R1 S |
 caM Da | maa - - ma | maM - | daa - ki ni |maM Di | raa - - ya | maa - | na ma ku Ta |
 mandara

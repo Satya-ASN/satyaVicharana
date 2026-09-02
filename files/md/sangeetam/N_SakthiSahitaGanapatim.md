@@ -28,7 +28,3 @@ bhak - - | thA - ni | pO - sha | Kam - - | bha va su| tham - vi | nA - ya | kam 
 P D2 P | M P M |G3 M G3 | R2 , , | s* R2 s* | n3* s* n3* | p* d* n3* | s* , ,
 bha kthi mu| kthi pra dam |bhoo shi tha | ngam - - | rak tha pa | dAm bu jam | bhA va yA | Mi - -
 sakthi | sahitha |
-
-
-
-

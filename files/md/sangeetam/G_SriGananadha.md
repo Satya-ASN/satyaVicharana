@@ -44,18 +44,18 @@ You are the first (“aadi”) one to receive obeisance (“poojitha”) when se
 |12|1234|12|1234|12|1234|12|1234|
 |----|----|----|----|----|----|----|----|
 caraṇam 1
-M1 P | D Ṡ Ṡ r*1 | r*1 s* |D P M1 P |R1 M1 | P D M1 P | D P | M1 G3 R1 S |
+M P | D s* s* r*1 | r*1 s* |D P M P |R1 M | P D M P | D P | M G3 R1 S |
 śrī - | ga ṇa nā tha | sin dhū | - ra va rṇa |ka ru | ṇā sā ga ra | ka ri | va da na - |
 pallavi|
-S R1 | M1 , G3 R1 | S R1 | G3 R1 S , |R1 M1 | P D M1 P | D P | M1 G3 R1 S |
+S R1 | M , G3 R1 | S R1 | G3 R1 S , |R1 M | P D M P | D P | M G3 R1 S |
 laṃ - | bo - da ra | la ku | mi ka ra - |aṃ - | bā - su ta | a ma | ra vi nu ta |
-S R1 | M1 , G3 R1 | S R1 | G3 R1 S , |
+S R1 | M , G3 R1 | S R1 | G3 R1 S , |
 lambodara|
 caraṇam 2|
-M1 P | D Ṡ Ṡ r*1 | r*1 Ṡ | D P M1 P |R1 M1  | P D M1 P | D P| M1 G3 R1 S |
+M P | D s* s* r*1 | r*1 s* | D P M P |R1 M  | P D M P | D P| M G3 R1 S |
 si ddha | cā - ra ṇa | ga ṇa | se - vi ta |si ddhi | vi nā ya ka | te - | na mo na mo |
 lambodara|
 caraṇam 3|
-M1 P | D Ṡ Ṡ r*1 | r*1 Ṡ | D P M1 P |R1 M1 | P D M1 P | D P | M1 G3 R1 S |
+M P | D s* s* r*1 | r*1 s* | D P M P |R1 M | P D M P | D P | M G3 R1 S |
 sa ka | la vi dyā - | - di | pū. ji ta |sa R | vo - tta ma | te - | na mo na mo |
 lambodara|

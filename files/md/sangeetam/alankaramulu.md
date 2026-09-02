@@ -1,5 +1,7 @@
 <h2>Alankarams</h2>
 
+<br>
+<h3> Angas </h3>
 Anga refers to the parts of the taala. There are 6 angas.
 
 Name of anga|Symbol|Number of beats|
@@ -11,6 +13,7 @@ guru | Rarely used |
 plutha | Rarely Used | 
 kaakapaadha | Rarely Used | 
 
+<h3> Jaati </h3>
 jAthi refers to the **number of beats** used in the laghu. There are 5 jathis.
 
 Name of jAthi | Number of beats | 
@@ -21,6 +24,7 @@ kanda | 5 |
 mishra | 7 | 
 sankeerNa | 9 | 
 
+<h3> Taalas </h3>
 There are 7 thAlas called **soolaadhi saptha thaala** comprising of multiple angas and each associated with a celestial body. | 
 
 thAla | anga | Association | 
@@ -33,7 +37,7 @@ thriputa | 1 0 0 | Jupiter |
 ata | 1 1 0 0 | Venus | 
 Eka | 1 | Saturn | 
 
-**7 thAla and 5 jAthis give rise to 7 x 5 = 35 variations.**
+**7 thAla combined with 5 jAthis give rise to 7 x 5 = 35 variations.**
 
 <h3>Dhruva Taala - Anga 1 0 1 1</h3>
 
