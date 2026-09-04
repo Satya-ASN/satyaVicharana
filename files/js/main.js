@@ -1001,7 +1001,8 @@ async function getTeluguConsonantsContent() {
 }
 
 async function getGanapatiSlokamContent() {
-    return loadContent_md_html('pages/GanapatiSlokam.html');
+//    return loadContent_md_html('pages/GanapatiSlokam.html');
+    return loadContent_md_html('md/slokas/GanapatiSlokam.md');
 }
 
 async function getSangeetamIntroContent() {
