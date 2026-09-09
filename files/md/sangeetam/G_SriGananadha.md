@@ -48,7 +48,7 @@ M P | D s* s* r*1 | r*1 s* |D P M P |R1 M | P D M P | D P | M G3 R1 S |
 śrī - | ga ṇa nā tha | sin dhū | - ra va rṇa |ka ru | ṇā sā ga ra | ka ri | va da na - |
 pallavi|
 S R1 | M , G3 R1 | S R1 | G3 R1 S , |R1 M | P D M P | D P | M G3 R1 S |
-laṃ - | bo - da ra | la ku | mi ka ra - |aṃ - | bā - su ta | a ma | ra vi nu ta |
+Laṃ - | bo - da ra | la ku | mi ka ra - |aṃ - | bā - su ta | a ma | ra vi nu ta |
 S R1 | M , G3 R1 | S R1 | G3 R1 S , |
 lambodara|
 caraṇam 2|
@@ -59,3 +59,10 @@ caraṇam 3|
 M P | D s* s* r*1 | r*1 s* | D P M P |R1 M | P D M P | D P | M G3 R1 S |
 sa ka | la vi dyā - | - di | pū. ji ta |sa R | vo - tta ma | te - | na mo na mo |
 lambodara|
+Sa ka | la vi dya - | A di | pu - ji tha | Sar - | vo - tha ma | The - | na mo na ma
+Lam - | bo - da ra | La ku | mi ka ra - | Am - | ba - su tha | A ma ra vi nu tha
+lambodara|
+Si dha | cha - ra na | Ga na | se - vi ta | Si dhi | vi na ya ka | The - | na mo na ma
+Lam - | bo - da ra | La ku | mi ka ra - | Am - | ba - su tha | A ma ra vi nu tha
+lambodara|
+

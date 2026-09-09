@@ -5,6 +5,7 @@
 Ganapati Slokam is prayer dedicated to Lord Ganesha, the remover of obstacles and the God of new beginnings.
 
 <br>
+<br>
 <h3> శ్లోకం  | Slokam </h3>
 <br>
 शुक्लाम्बरधरं विष्णुं शशिवर्णं चतुर्भुजम् 

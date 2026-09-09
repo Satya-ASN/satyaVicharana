@@ -187,12 +187,16 @@ async function getContentById(contentId, title) {
         'VaraVeena': await getG_VaraVeenaContent(),
         'MandharaDhara': await getG_MandharaDharaContent(),
 
-        'AdigoBhadraadri': await getK_AdigoBhadraadriContent(),
-        'SitaKalyanaVaibhogame': await getK_SitaKalyanaVaibhogameContent(),
-        'RamaChandraaya': await getK_RamaChandraayaContent(),
-        'muddugaareYashoda': await getK_muddugaareYashodaContent(),
-        'brahmaKadigina': await getK_brahmaKadiginaContent(),
-        'gandhamuPooyaruga': await getK_gandhamuPooyarugaContent(),
+        'K_AdigoBhadraadri': await getK_AdigoBhadraadriContent(),
+        'K_SitaKalyanaVaibhogame': await getK_SitaKalyanaVaibhogameContent(),
+        'K_RamaChandraaya': await getK_RamaChandraayaContent(),
+        'K_MuddugaareYashoda': await getK_MuddugaareYashodaContent(),
+        'K_BrahmaKadigina': await getK_BrahmaKadiginaContent(),
+        'K_GandhamuPuyyarugaa': await getK_GandhamuPuyyarugaaContent(),
+        'K_Nagumoomu': await getK_NagumoomuContent(),
+        'K_Brochevarevare': await getK_BrochevarevareContent(),
+        'K_ChakkaniThallikiChanguBhala': await getK_ChakkaniThallikiChanguBhalaContent(),
+        'K_KsheerabdiKanyakaku': await getK_KsheerabdiKanyakakuContent(),
 
         'O_harivarasanam': await getO_HariVasarasanamContent(),
         'O_Lingaastakam': await getO_LingaastakamContent(),
@@ -1081,28 +1085,40 @@ async function getK_AdigoBhadraadriContent() {
     return loadContent_md_html('md/sangeetam/K_AdigoBhadradri.md');
 }
 
+async function getK_SitaKalyanaVaibhogameContent() {
+    return loadContent_md_html('md/sangeetam/K_SitaKalyanaVaibogame.md');
+}
+
 async function getK_RamaChandraayaContent() {
     return loadContent_md_html('md/sangeetam/K_RamaChandraaya.md');
 }
 
-async function getK_SitaKalyanaVaibhogameContent() {
-    return loadContent_md_html('md/sangeetam/K_SitaKalyanaVaibogame.md');
+async function getK_MuddugaareYashodaContent() {
+    return loadContent_md_html('md/sangeetam/K_MuddugaareYashoda.md');
 }
 
-async function getK_SitaKalyanaVaibhogameContent() {
-    return loadContent_md_html('md/sangeetam/K_SitaKalyanaVaibogame.md');
-}
-
-async function getK_muddugaareYashodaContent() {
-    return loadContent_md_html('md/sangeetam/K_muddugaareYashoda.md');
-}
-
-async function getK_brahmaKadiginaContent() {
+async function getK_BrahmaKadiginaContent() {
     return loadContent_md_html('md/sangeetam/K_BrahmaKadigina.md');
 }
 
-async function getK_gandhamuPooyarugaContent() {
-    return loadContent_md_html('md/sangeetam/K_gandhamuPuyyarugaa.md');
+async function getK_GandhamuPuyyarugaaContent() {
+    return loadContent_md_html('md/sangeetam/K_GandhamuPuyyarugaa.md');
+}
+
+async function getK_NagumoomuContent() {
+    return loadContent_md_html('md/sangeetam/K_Nagumoomu.md');
+}
+
+async function getK_BrochevarevareContent() {
+    return loadContent_md_html('md/sangeetam/K_Brochevarevare.md');
+}
+
+async function getK_ChakkaniThallikiChanguBhalaContent() {
+    return loadContent_md_html('md/sangeetam/K_ChakkaniThallikiChanguBhala.md');
+}
+
+async function getK_KsheerabdiKanyakakuContent() {
+    return loadContent_md_html('md/sangeetam/K_KsheerabdiKanyakaku.md');
 }
 
 async function getO_LingaastakamContent() {
