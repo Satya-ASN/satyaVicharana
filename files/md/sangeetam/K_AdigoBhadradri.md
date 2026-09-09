@@ -1,5 +1,5 @@
-<h2>Ramadasu Keerthana</h2>
-<h3>Adigo Bhadradri</h3>
+<h2>Adigo Bhadradri</h2>
+<td>Rupakarta: శ్రీ Ramadasu <td>
 <h4>
 pallavi
 </h4>

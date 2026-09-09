@@ -2,10 +2,10 @@
 
 |---|---|---|---|---|
 |---|---|---|---|---|
-rama chan | draya | janaka | rajaja ma | noharaya
 m , m m , | m , p | m m g | m , p d , n | d , p m , g
-mamaka | bheeshtadaya | mahita | mangalam ||
+rama chan | draya | janaka | rajaja ma | noharaya
 m , p m , g | r , r g , s | r , r s | r , p m ,
+mamaka | bh eesh | tadaya | mahita | mangalam
 
 kosalendraya mandahasa dasaposhanaya
 vasavadi vinuta sadwaraya mangalam ||

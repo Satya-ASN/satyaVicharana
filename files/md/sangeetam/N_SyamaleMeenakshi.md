@@ -30,7 +30,7 @@ padmasana vaani hari lakshmi vinuthe shambhavi
 |--|--|--|--|--|--|--|--|
 S , , R2 | G2 , M , | P , , , | P , , , | D2 , , N2 | s* , s* N2 | D2 , P , | M , G2 ,
 Sya - - ma| le - mee -| na - - - | kshi - - -| sun - - da | re - swara | sa - - - | kshi - - -
-M , D2 , | M , R2 , | G2 , P , | G2 , S ,| R2 , M , | R2 , N2 , | S , , , | S , , ,
+M , D2 , | M , R2 , | G2 , P , | G2 , S ,| R2 , M , | R2 , *n2 , | S , , , | S , , ,
 Shan - ka - | ri - gu - | ru - gu - | ha - sa - | mudh - bha - | ve - shi - | ve - - - | va - - -
 P , , , | P , P , | M , , , | M , M ,|G2 , , , | G2 , G2 , | R2 , , , | R2 , R2 ,
 pa - - - | ma - ra - | mo - - - | cha - ni - | pan - - - | ka - ja - | lo - - - | cha - ni -

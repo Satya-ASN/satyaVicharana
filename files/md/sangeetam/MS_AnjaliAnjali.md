@@ -18,22 +18,15 @@ g p S | n S n  | p dn2 d pmg | g p S | G R Sn  | p dn2 d pmg
 => g p S | n S n | p n2 d mg | g p S | S~G R n | p n2 d m gpg | 
 => G2 P s* , | N s* N , | N , r2*~s* N , D P | p n2 d mg | g p S | S~G R n | p n2 d m gpg | 
 => G2 P s* , | N , r2*~s* N , D P | D~s* - N , D2 M , G , , ,
-
 anjali | anjali | pushpaanjali | anjali | anjali | pushpaanjali
-
 S R | R G~G | G , M , P P R | R , R~S , S R
 Kala | hamsa | nadakalaku | geethanjali
 R G | G , G | M M - P P R R | R R~S , S R
 Kana | raani | nagavulaku kavithaanjali
-
-
-
 s rg g | m m p | pr r r r | s rg g | m m m p | p rr r r
 Puvvanti | padhamulaku | pushpaanjali | Muddhaina pedhavulaku ponnaanjali
-
-s rg g m m m p pr r  r r sr g g  mm  m  p p r r  r r
+=>s rg g m m m p pr r  r r sr g g  mm  m  p p r r  r r
 kaNNe un kuralukku geethaanjali kaN kaaNaa azhaghirkku kavithaanjali
-
 Charanam 1
 => D , D | D , D | D , D~N | D , DMG| 
 Ninna | dhaaka | nuvvu | nenu 
