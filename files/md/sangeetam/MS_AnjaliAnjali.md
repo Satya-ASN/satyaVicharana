@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=W4oZEst_GcY
 | | | | | | |
 |---|---|---|---|---|---|
 g p S | n S n  | p dn2 d pmg | g p S | G R Sn  | p dn2 d pmg
-=> g p S | n S n | p n2 d mg | g p S | S~G R n | p n2 d m gpg | 
+=> g p S | n S n | p p~n2~d~p m g , | g p S | S~G R n | p n2 d m gpg | 
 => G2 P s* , | N s* N , | N , r2*~s* N , D P | p n2 d mg | g p S | S~G R n | p n2 d m gpg | 
 => G2 P s* , | N , r2*~s* N , D P | D~s* - N , D2 M , G , , ,
 anjali | anjali | pushpaanjali | anjali | anjali | pushpaanjali
