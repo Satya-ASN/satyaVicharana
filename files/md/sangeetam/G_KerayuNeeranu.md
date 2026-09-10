@@ -43,13 +43,13 @@ charaṇa kamalavanoḍi badukirō
 
 |123|12|12|123|12|12|
 |-----|------|-----|------|-----|------|
-D1 Ṡ Ṡ | D1 P | M1 P | D1 D1 P | M1 M1 | P , | 
+D1 s* s* | D1 P | M1 P | D1 D1 P | M1 M1 | P , | 
 kē rē ya | nī - | ra nu | kē rē gē | chal - | lī - |
-D1 D1 Ṡ | D1 P | M1 P | D1 D1 P | M1 G3 | R1 S | 
+D1 D1 s* | D1 P | M1 P | D1 D1 P | M1 G3 | R1 S | 
 va ra va | pa ḍe | da va | raṃ - tē | ka - | ṇi rō |
 S R1 R1 | S R1 | S R1 | D1 D1 P | M1 G3 | R1 S | 
 ha ri ya | ka ru | ṇa dō | ḻā - da | bhā - | gya va |
-D1 P D1 | Ṡ , | D1 P | D1 D1 P | M1 G3 | R1 S | 
+D1 P D1 | s* , | D1 P | D1 D1 P | M1 G3 | R1 S | 
 ha ri sa | ma - | rpa ṇē | mā - ḍi | ba du | ki rō |
 S R1 R1 | S R1 | S R1 | D1 D1 P | M1 G3 | R1 S | 
 ha ri ya | ka ru | ṇa dō | ḻā - da | bhā - | gya va |
