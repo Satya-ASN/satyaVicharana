@@ -17,8 +17,22 @@
 </table>
 </h4>
 
-||||||
-|---|---|---|---|---|
+|||||||||
+|---|---|---|---|---|---|---|---|
+S , G3 , | S , G3 , | S , G3 , | M1 G3 R2 S | *n , R2 , | *n , R2 , | *n , R2 , | G3 R2 S *n
+vandE | mInA | kshi tvam | sara sija | vaktrE | parNE | durgE | nata sura
+S , G3 , |S , G3 , | S R2 G3 M1 | P , , , | M1 G3 R2 S | G3 R2 S *n | S, , ,
+bRndE | saktE | guru guha | Paa | lini jala | ruha chara | ne - -
+Repeat | above 2
+s* , N D2 | P , M1 , | G3 , M1 , | P , D2 , | s* , N D2 | P , M1 , | P , , ,
+sun - dara | pA ndyA| nan dE | mA yE | sU ri | janA dhA  |rE - -
+s* , N D2 | P , P M1 | G3 , M1 M1 | P , D2 , | M1 G3 R2 S | G3 R2 S *n | S , , ,
+sun - dara | rA - ja sa  |hO - dari | gau - ri - | Subha kari | sata taM | aham - -
+M1 G3 R2 S | G3 R2 S *n | S , , , | M1 G3 R2 S | G3 R2 S *n | S , , ,
+Subha kari | sata taM | aham - - | Subha kari | sata taM | aham - -
+
+|||||
+|---|---|---|---|
 S , G3 , | S , G3 , | S , G3 , | M1 G3 R2 S
 vandE | mInA | kshi tvam | sara sija
 *n , R2 , | *n , R2 , | *n , R2 , | G3 R2 S *n
