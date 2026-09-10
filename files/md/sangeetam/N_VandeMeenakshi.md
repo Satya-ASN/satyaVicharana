@@ -20,19 +20,20 @@
 ||||||
 |---|---|---|---|---|
 S , G3 , | S , G3 , | S , G3 , | M1 G3 R2 S
-vandE | mInA | kshi tvam | sara |sija
+vandE | mInA | kshi tvam | sara sija
 *n , R2 , | *n , R2 , | *n , R2 , | G3 R2 S *n
-vaktrE | parNE | durgE | nata | sura
+vaktrE | parNE | durgE | nata sura
 S , G3 , |S , G3 , | S R2 G3 M1 | P , , ,
-bRndE | saktE | guru | guha | Paa
+bRndE | saktE | guru guha | Paa
 M1 G3 R2 S | G3 R2 S *n | S, , ,
-lini | jala | ruha | chara | NE - -
+lini jala | ruha chara | ne - -
 Repeat | above 4
-s* , | N D2 | P , M1 , | G3 , M1 , | P , D2 ,
-sun |dara | pANDyA | nandE | mAyE
+s* , N D2 | P , M1 , | G3 , M1 , | P , D2 ,
+sun - dara | pA ndyA| nan dE | mA yE
 s* , N D2 | P , M1 , | P , , ,
-sUri | janAdhA  |rE - -
+sU ri | janA dhA  |rE - -
 s* , N D2 | P , P M1 | G3 , M1 M1 | P , D2 ,
-sundara | rAja sa  |hOdari | gauri
+sun - dara | rA - ja sa  |hO - dari | gau - ri -
 M1 G3 R2 S | G3 R2 S *n | S , , ,
-Subha | kari | sata | taM | aham - -
+Subha kari | sata taM | aham - -
+Subha kari | sata taM | aham - -
