@@ -57,12 +57,6 @@ si ddha | cā - ra ṇa | ga ṇa | se - vi ta |si ddhi | vi nā ya ka | te - | 
 lambodara|
 caraṇam 3|
 M P | D s* s* r*1 | r*1 s* | D P M P |R1 M | P D M P | D P | M G3 R1 S |
-sa ka | la vi dyā - | - di | pū. ji ta |sa R | vo - tta ma | te - | na mo na mo |
-lambodara|
-Sa ka | la vi dya - | A di | pu - ji tha | Sar - | vo - tha ma | The - | na mo na ma
-Lam - | bo - da ra | La ku | mi ka ra - | Am - | ba - su tha | A ma ra vi nu tha
-lambodara|
-Si dha | cha - ra na | Ga na | se - vi ta | Si dhi | vi na ya ka | The - | na mo na ma
-Lam - | bo - da ra | La ku | mi ka ra - | Am - | ba - su tha | A ma ra vi nu tha
+sa ka | la vi dyā - | - di | pū ji ta |sa R | vo - tta ma | te - | na mo na mo |
 lambodara|
 
