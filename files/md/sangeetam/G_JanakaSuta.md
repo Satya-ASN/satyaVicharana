@@ -31,8 +31,8 @@ karigiri nivāsurē
 
 svarāḥ
 
-1 2 | 1 2 3 4 | 1 2 | 1 2 3 4 |
-|--|----|--|----|
+1 2 | 1 2 3 4 | 1 2 | 1 2 3 4 |1 2 | 1 2 3 4 | 1 2 | 1 2 3 4 |
+|--|----|--|----|--|----|--|----|
 *d1 S | R1 M M , | M G3 | G3 , R1 S | G3 , | R1 R1 G3 , | R1 R1 | S *d1 S , |
 ja na | ka su tā – | ku cha | kuṃ – ku ma |paṃ – | ki ta lāṃ – | cha nu | rē – rē – |
 D1 D1 | P M P , | P M | G3 R1 S R1 |P M | G3 R1 R1 M | G3 R1 | S , S , |
