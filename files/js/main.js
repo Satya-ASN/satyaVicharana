@@ -185,6 +185,7 @@ async function getContentById(contentId, title) {
         'sriGananadha': await getG_SriGananadhaContent(),
         'Keerayu': await getG_KeerayuContent(),
         'VaraVeena': await getG_VaraVeenaContent(),
+        'JanakaSuta': await getG_JanakaSutaContent(),
         'MandharaDhara': await getG_MandharaDharaContent(),
 
         'K_AdigoBhadraadri': await getK_AdigoBhadraadriContent(),
@@ -1067,6 +1068,10 @@ async function getN_RamaJanardhanaContent() {
 
 async function getG_VaraVeenaContent() {
     return loadContent_md_html('md/sangeetam/G_Varaveena.md');
+}
+
+async function getG_JanakaSutaContent() {
+    return loadContent_md_html('md/sangeetam/G_JanakaSuta.md');
 }
 
 async function getG_KeerayuContent() {
