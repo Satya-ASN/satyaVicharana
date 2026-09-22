@@ -20,8 +20,8 @@
   </tr>
 </table>
 
-svara sthānāḥ: ṣaḍjam, kākalī niṣādam, śuddha dhaivatam, pañchamam, śuddha madhyamam, antara gāndhāram, śuddha ṛṣabham, ṣaḍjam
-
+svara sthānāḥ: ṣaḍjam, kākalī niṣādam (N3), śuddha dhaivatam (D1), pañchamam, śuddha madhyamam, antara gāndhāram (G3), śuddha ṛṣabham (R1), ṣaḍjam
+<br>
 sāhityam
 janaka suta kucha kuṅkuma paṅkitalāñchanu rē rē
 baliharurē khaga vāhana kāñchīpuri nilayā
@@ -29,6 +29,7 @@ kari rakṣaka bhuja vikrama kāmita phala dāyaka
 kari varadā kalyāṇa pērundēvī manōharurē
 karigiri nivāsurē
 
+<br>
 svarāḥ
 
 1 2 | 1 2 3 4 | 1 2 | 1 2 3 4 |1 2 | 1 2 3 4 | 1 2 | 1 2 3 4 |
