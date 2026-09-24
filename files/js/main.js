@@ -1129,7 +1129,7 @@ async function getK_KsheerabdiKanyakakuContent() {
 }
 
 async function getSJ_RaaraVenuContent() {
-    return loadContent_md_html('md/sangeetam/SJ_RaaraVenu.md');
+    return loadContent_md_html('md/sangeetam/SJ_raaravENu.md');
 }
 
 async function getO_LingaastakamContent() {
