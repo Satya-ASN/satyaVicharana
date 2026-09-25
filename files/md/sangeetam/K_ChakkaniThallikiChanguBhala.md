@@ -1,27 +1,38 @@
-Chakkani Thalliki Changu Bhala
-Ragam: Paadi
-15th Mela Kartha  Mayamalava gowla ragam
-Talam: Adi
-Sruthi: A
-Check out below for Notation, Lyrics and meaning.
-----------------------------
-Lyrics with notation:
+<h2>Chakkani Thalliki Changu Bhala
+<h4>
+<table>
+  <tr>
+    <td>swarajati</td>
+    <td>Composer: శ్రీ Mysore Vasudevacharya </td>
+  </tr>
+  <tr>
+    <td>Ragam: Paadi - 15th Mela Kartha  Mayamalava gowla ragam</td>
+    <td>Talam: Adi (2 kalai) </td>
+  </tr>
+  <tr>
+    <td>Aro: S M1 G3 M1 N2 D2 N2 P D2 N2 Ṡ </td>
+    <td>Ava: Ṡ N2 D2 P M1 G3 R3 S </td>
+  </tr>
+  </tr>
+</table>
+</h4>
 
-Pallavi :
-s, s r   m,m m    p d p n S
-Chakkani thalliki chAngubhala
-S n   p n S R  S n p m p dp m r, , s
+|----|----|----|----|
+|----|----|----|----|
+Pallavi
+s, s r | m,m m | p d p n S
+Chakkani | thalliki | chAngubhala
+S n | p n S R | S n p m | p dp m r, , s
 thana chakkera mOviki chAngubhala
-
 Charanam 1 :
-p d p d  p d p d  p, d p, d  p d
-kulikeDi muripepu kummarimpu thana
-p m p  n , n n n S n p n S,
-saLuvu chupulaku chAngubhala
-S R S R  S R S R  S R M,   R R S n
-palukula solapula pathitho kasareDi
-p n S R   S n p m  p d p m r ,, s
-chalamula yalukaku chAngubhala
+p d p d | p d p d | p, d p, d | p d
+kulikeDi | muripepu | kummarimpu | thana
+p m p | n , n n n | S n p n S,
+saLuvu | chupulaku | chAngubhala
+S R S R | S R S R | S R M , | R R S n
+palukula | solapula | pathitho | kasareDi
+p n S R | S n p m | p d p m r ,, s
+chalamula | yalukaku | chAngubhala
 
 (almost same swaram for other two charanams)
 -----------------------------

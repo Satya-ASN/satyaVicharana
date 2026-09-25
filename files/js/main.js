@@ -1101,7 +1101,7 @@ async function getK_RamaChandraayaContent() {
 }
 
 async function getK_MuddugaareYashodaContent() {
-    return loadContent_md_html('md/sangeetam/K_MuddugaareYashoda.md');
+    return loadContent_md_html('md/sangeetam/K_MuddugaareYasoda.md');
 }
 
 async function getK_BrahmaKadiginaContent() {

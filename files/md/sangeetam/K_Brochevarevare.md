@@ -1,19 +1,21 @@
-<h2>brOcEvArevarurA</h2>
-
-<h3>
-RAGAM-Khamas (28th melakartha (HariKambodhi) Janyam)
-<br>
-ARO:  S M1 G3 M1 N2 D2 N2 P D2 N2 S ||
-<br>
-AVA :   S N2 D2 P M1 G3 R3 S              ||
-<br>
-Talam: Adi (2 kalai)
-<br>
-Composer: శ్రీ Mysore Vasudevacharya
-<br>
-Version: T M Krishna
-<br>
-</h3>
+<h2>brOcEvArevarurA
+<h4>
+<table>
+  <tr>
+    <td>swarajati</td>
+    <td>Composer: శ్రీ Mysore Vasudevacharya </td>
+  </tr>
+  <tr>
+    <td>Ragam: Khamas (28th melakartha (HariKambodhi) Janyam)</td>
+    <td>Talam: Adi (2 kalai) </td>
+  </tr>
+  <tr>
+    <td>Aro: S M1 G3 M1 N2 D2 N2 P D2 N2 Ṡ </td>
+    <td>Ava: Ṡ N2 D2 P M1 G3 R3 S </td>
+  </tr>
+  </tr>
+</table>
+</h4>
 
 <h4>
 Pallavi:
@@ -75,22 +77,15 @@ Meaning: Who will save me other than you Oh descendent of Raghu.
 
 brOcEvArevarurA (who will save) ninu vina (other than you) raghuvara (descendent of raghu – rAma in this case) nanu (me):
 
-S ; ; ss|nd M -  P ;  ; ;  ; n d| d p – M G G  | M ; ; - M||  G M – P ;|| ; N D N| S ; S S  ||
+|----|----|----|----|----|----|----|----|----|
+|----|----|----|----|----|----|----|----|----|
+S ; ; ss|nd M -  P ;  ; ;  ; n d| d p – M G G  | M ; ; - M|  G M – P ;| ; N D N| S ; S S  |
 brO – cE -  - -  -  vA- - - -  - -|  - -|re va ru rA - - ni|  nnu vi na -|  raghuva| rA-  nanu
-prrs S- ss nd M -  P ; gmpd-pd n d  d p – M G G  | M ; ; - dp mg  M – psnd |np- N D N S ,n  S sn ||
-
+prrs S- ss nd M -  P ; gmpd-pd n d  d p – M G G  | M ; ; - dp mg  M – psnd |np- N D N S ,n  S sn |
 brO –  cE -  - -  -  vA-  - - -  - -  - - -  - - re va ru rA - - ni nnu  vi  na - -- raghuva rA--  nanu
-
- 
-
-prrs S- ss   nd M -P ; gmpd-pd nrss  dp –M P Dnd  | pmM ; ; - dp  mgM – psnd |np- N D N  S ,n  M G  ||
-
+prrs S- ss   nd M -P ; gmpd-pd nrss  dp –M P Dnd  | pmM ; ; - dp  mgM – psnd |np- N D N  S ,n  M G  |
 brO –  cE -  - -  -  vA-  - - -  - -  - - -  - - re va ru  rA - - - - ni nnu  vi  na - -- raghuva  rA--  nanu
-
- 
-
-S ; ; - ss   nd M -P ; gmpd-pd nrss  dp –M P Dnd  | pmM ; ; - dp  mgM – psnd |np- N D N  S ; ;  ;  ||
-
+S ; ; - ss   nd M -P ; gmpd-pd nrss  dp –M P Dnd  | pmM ; ; - dp  mgM – psnd |np- N D N  S ; ;  ;  |
 brO –  cE -  - -  - vA-  - - -  - -  - - -  - - re va ru  rA - - - - ni nnu  vi na - -- raghuva  rA-- 
 
  
@@ -103,25 +98,25 @@ nee (your) caraNAmbujamula (lotus like feet) nE viDajAla (I can’t leave) karuN
 
   1        2      3      4       5       6       7        8
 
-M ;  R mg  rsS ; ; ;   MG M N  ndD  ; ;  |  S S – sD,     ; sn - , nN | dsnd – P-nD,  ,m- Pdp – dn  ||
+M ;  R mg  rsS ; ; ;   MG M N  ndD  ; ;  |  S S – sD,     ; sn - , nN | dsnd – P-nD,  ,m- Pdp – dn  |
 
 nI  ca ra- Nam- - -    bujamunu nE -  - -    viDa  jA-  --la  karu  NA--  -  la-  - - - vA-- la –
 
  
 
-prrs S- ss   nd M -P ; gmpd-pd nrss  dp –M P Dnd  | pmM ; ; - dp  mgM – psnd |np- N D N  nrss ;  ;  ||
+prrs S- ss   nd M -P ; gmpd-pd nrss  dp –M P Dnd  | pmM ; ; - dp  mgM – psnd |np- N D N  nrss ;  ;  |
 
 brO –  cE -  - -  - vA-  - - -  - -  - - -  - - re va ru  rA - - - - ni nnu  vi na - -- raghuva  rA-- 
 
  
 
-M ;  R mg  rsS ; ; ;   MG M N  ndD  ; ;  |  S S – Sds  rs- ,n - , nN | dsnd – P-nD,  ,m- Pdp – dn  ||
+M ;  R mg  rsS ; ; ;   MG M N  ndD  ; ;  |  S S – Sds  rs- ,n - , nN | dsnd – P-nD,  ,m- Pdp – dn  |
 
 nI  ca ra- Nam- - -    bujamunu nE -  - -    viDa  jA-   --la  karu  NA--  -  la-  - - - vA-- la –
 
  
 
-prrs S- ss   nd M -P ;  P,  rs  SD P -M G G | M ; ; - dp  mg-M – psnd |np- ; n  D  n   nrss ;  ;  ||
+prrs S- ss   nd M -P ;  P,  rs  SD P -M G G | M ; ; - dp  mg-M – psnd |np- ; n  D  n   nrss ;  ;  |
 
 brO –  cE -  - -  - vA- - - -  - -  - - -  re va ru  rA - - ni   nnu vi na -   -- - raghuva  rA-- 
 
@@ -149,43 +144,43 @@ Oh, the one who is worshipped by great ones starting from brahma, why are you so
 
   1     2      3      4        5        6      7        8
 
-; gM d N  S ;  ; N  S ;  ; S   ; , s  , s S  | ns r sn- n- N   N ;  ;  ;    | dnsn – D P   D ; D ;   ||
+; gM d N  S ;  ; N  S ;  ; S   ; , s  , s S  | ns r sn- n- N   N ;  ;  ;    | dnsn – D P   D ; D ;   |
 
   O-  catu  ra- - na   nA- - di  van dita   nI - -  -du pa   rA-  - -  kE- - - - la   nay- ya
 
  
 
-; gM d N  S ;  ; N  S ;  ; S   ; , s  , s S  | ns rrss n- n-N   N ;  N  ;  | dnsn – D P   D ; D ;     ||
+; gM d N  S ;  ; N  S ;  ; S   ; , s  , s S  | ns rrss n- n-N   N ;  N  ;  | dnsn – D P   D ; D ;     |
 
   O-  catu  ra- - na   nA- - di  van dita   nI - - - du pa   rA-  - -  kE- - - - la   nay- ya
 
  
 
-; gM d N  S ;  ; N  S ;  ; rG, , S , S S   |  ns rrss n- n-N   DN DN  | dnsn – D P  D ; dndn  ||
+; gM d N  S ;  ; N  S ;  ; rG, , S , S S   |  ns rrss n- n-N   DN DN  | dnsn – D P  D ; dndn  |
 
   O-  catu  ra- - na   nA- - di  van dita   nI - - - du pa   rA-  - -  kE- - - - la   nay- ya
 
  
 
-; gM d N  S ;  ; N  S ;  ; rG, , S , S S   |  ns rrss n- n-N   DN DN  | dnsn – D P  D ; dndn  ||
+; gM d N  S ;  ; N  S ;  ; rG, , S , S S   |  ns rrss n- n-N   DN DN  | dnsn – D P  D ; dndn  |
 
   O-  catu  ra- - na   nA- - di  van dita   nI - - - du pa   rA-  - -  kE- - - - la   nay- ya
 
  
 
-dp- gM d N  rsS ;  ; N S ;  ; rG, , S , S S   |  ns rrss n- n-N   DN DN  | dnsn – D P  D ; dndn  ||
+dp- gM d N  rsS ;  ; N S ;  ; rG, , S , S S   |  ns rrss n- n-N   DN DN  | dnsn – D P  D ; dndn  |
 
   O-  catu  ra- - na   nA- - di  van dita    nI - - - du pa   rA-  - -  kE- - - - la   nay- ya
 
  
 
-dp- gM d N  rsS ;  ; N S ;  ; S nsrgmmgr sS, |  ns rrss n- n-N   DN DN  | dnsn – D P  D ; prsS,Dp ||
+dp- gM d N  rsS ;  ; N S ;  ; S nsrgmmgr sS, |  ns rrss n- n-N   DN DN  | dnsn – D P  D ; prsS,Dp |
 
   O-  catu  ra- -  - na  nA-  di van-- - - dita  nI - - - du pa   rA-  - -  kE- - - - la   nay-  ya
 
  
 
-;- gM d N  rsS ;  ; N S ;  ; S nsrgpmmgrs S, | ns rrss n- n-N   DN DN  | dnsn – D P  D ; D ; ||
+;- gM d N  rsS ;  ; N S ;  ; S nsrgpmmgrs S, | ns rrss n- n-N   DN DN  | dnsn – D P  D ; D ; |
 
  O-  catu  ra- -  - na  nA-  di van-- - - dita   nI - - - du pa   rA-  - -  kE- - - - la   nay-  ya
 
@@ -199,13 +194,13 @@ My diction is inadequate even to praise and sing your story, I am in such a poor
 
   1     2       3         4       5       6         7     8
 
-N ;  S S  G R-  sn  sn   R, sn D-nr snND  DP | D GM- D    P D-  N D  |  N – S N S  N D N R ||
+N ;  S S  G R-  sn  sn   R, sn D-nr snND  DP | D GM- D    P D-  N D  |  N – S N S  N D N R |
 
 nI  cari  tamu  po-ga- Da lE-  vu nA - - - -  cin- ta  dI  - rcca vara    mu li - cci  vE - gamE
 
  
 
-N ;  S S  G R-  sn  sn   R, sn D-nr sr-snND-pDp | D GM- D    P D-  N D  |  N – S N S  N D N R ||
+N ;  S S  G R-  sn  sn   R, sn D-nr sr-snND-pDp | D GM- D    P D-  N D  |  N – S N S  N D N R |
 
 nI  cari  tamu  po-ga- Da lE-  vu -- nA - - - -  cin- ta  dI  - rcca vara    mu li - cci  vE - gamE
 
@@ -215,27 +210,27 @@ Chitta Swaram:
 
   1      2      3      4       5        6        7      8
 
-S ;  ;  S  N D P- D  N S N– N  D –D P M  | P ;  D M   ;  ;  G  ;  |  ;  M ; - P   ; D ;  N     ||
+S ;  ;  S  N D P- D  N S N– N  D –D P M  | P ;  D M   ;  ;  G  ;  |  ;  M ; - P   ; D ;  N     |
 
-S N ; D   P M – N D ; P M G-   M  P D M  |  G R S  ;   S M ; G  | M P –D M   ; P D N    ||
+S N ; D   P M – N D ; P M G-   M  P D M  |  G R S  ;   S M ; G  | M P –D M   ; P D N    |
 
-S S  R N  ;-N N  S  D  ; - D D N P ; - D | M P D N-  S N D P   |  M G  M N   D N P D ||
+S S  R N  ;-N N  S  D  ; - D D N P ; - D | M P D N-  S N D P   |  M G  M N   D N P D |
 
             (rs)       (sn)
 
-M ; P D  N S – M  ;  G R S – R  ; S - ; N  |  D P – S ;     N ;  D P |  M -G  ; M    ; P D N ||
+M ; P D  N S – M  ;  G R S – R  ; S - ; N  |  D P – S ;     N ;  D P |  M -G  ; M    ; P D N |
 
   1       2        3       4       5        6       7      8
 
-S, s  nd pd nsnn ddpm  P d M, -G   , M P D n | s N dpm-nd   , pmg –mpdm | , grS  sM-g  mpd M pdn||
+S, s  nd pd nsnn ddpm  P d M, -G   , M P D n | s N dpm-nd   , pmg –mpdm | , grS  sM-g  mpd M pdn|
 
-ssr N nns  D- ddn  P-d  mpdn  sndp  mgmn dnp-d | M pdn- sM  grs R S n |  dp S N dp  mG M pdn||
+ssr N nns  D- ddn  P-d  mpdn  sndp  mgmn dnp-d | M pdn- sM  grs R S n |  dp S N dp  mG M pdn|
 
  
 
 … Who will save me other than you Oh descendent of Raghu.
 
-prrs S- ss   nd M -P ; gmpd-pd nrss  dp –M P Dnd  | pmM ; ; - dp  mgM – psnd |np- N D N  nrss ;  ;  ||
+prrs S- ss   nd M -P ; gmpd-pd nrss  dp –M P Dnd  | pmM ; ; - dp  mgM – psnd |np- N D N  nrss ;  ;  |
 
 brO –  cE -  - -  - vA-  - - -  - -  - - -  - - re va ru  rA - - - - ni nnu  vi na - -- raghuva  rA-- 
 
@@ -253,19 +248,19 @@ Oh, lord of sita, don’t you have any affection towards me?
 
   1      2       3     4       5       6       7      8
 
-P ;  ; pm  G –M P ;   ; ; - GM  D ;  ;  ;  | N D – D S   sD ,  sN  , | D  sn- nndm P ;  pDp   ||
+P ;  ; pm  G –M P ;   ; ; - GM  D ;  ;  ;  | N D – D S   sD ,  sN  , | D  sn- nndm P ;  pDp   |
 
 sI - - tA- - patE -  - - nA-  pai - - -    nI -  kabhi  mA-  - - -  na mu-  lE---  dA - -  -
 
  
 
-P ;  ; pmM  G –M P ;   ; ; - GM  D ;  ;  ;  | sN, D – D S  sD ,  sN  , | D  sn- nndm  pmpd  psnd  ||
+P ;  ; pmM  G –M P ;   ; ; - GM  D ;  ;  ;  | sN, D – D S  sD ,  sN  , | D  sn- nndm  pmpd  psnd  |
 
 sI - - tA-  - patE -   - - nA-  pai - - -    nI -  kabhi  mA-  - - -  na mu-  lE---  dA - - - --
 
  
 
-P ;  nd pmM  G –M P ; ; ; - nnDpmM  D ;  ;  ; | sN, D – D S  sD ,  sN  , | D  sn- nndm  pmpd  psnd  ||
+P ;  nd pmM  G –M P ; ; ; - nnDpmM  D ;  ;  ; | sN, D – D S  sD ,  sN  , | D  sn- nndm  pmpd  psnd  |
 
 sI - - - tA-   - patE -   - - nA- - - pai - - -    nI -  kabhi  mA-  - - -  na mu-  lE---  dA - - - --
 
@@ -281,19 +276,19 @@ Oh, the one whose feet were worshipped by Hanuman, why don’t you listen to my 
 
   1        2        3       4       5       6        7      8
 
-P ;  ; - M  P- nd- pmG ;  G R – pmgr ; S ;  ;  ;  | M ; - M N  D np - , d N  | S ,n- rsnd   D P ; ;   ||
+P ;  ; - M  P- nd- pmG ;  G R – pmgr ; S ;  ;  ;  | M ; - M N  D np - , d N  | S ,n- rsnd   D P ; ;   |
 
 vA  - tA -  tma- jA- - -  rcita  pA- -  -  da - -  -   nA-  mo ra  la nu- vina   rA--  dA- -  -  - - -  
 
  
 
-mgnd pNd pm G –M P ;  ; ; - nnDpmM  D ;  ;  ; | sN, D – D rs  sD ,  sN  , | D  sn- nndm  pmpd  psnd  ||
+mgnd pNd pm G –M P ;  ; ; - nnDpmM  D ;  ;  ; | sN, D – D rs  sD ,  sN  , | D  sn- nndm  pmpd  psnd  |
 
 sI - - - - - tA-   - patE - - - nA- - - pai - - -  nI - -  ka bhi  mA-  - -   na mu-  lE---  dA - - - --
 
  
 
-P ;  ; - M  P- nd- pmG ;  G R – pmgr ; S ;  ;  ;  | SM - M N  D np - , d N  | nS n- rsnd   D P ; ;   ||
+P ;  ; - M  P- nd- pmG ;  G R – pmgr ; S ;  ;  ;  | SM - M N  D np - , d N  | nS n- rsnd   D P ; ;   |
 
 vA  - tA -  tma- jA- - -  rcita  pA- -  -  da - -  -   nA-  mo ra  la nu- vina   rA--  dA- -  -  - - - 
 
@@ -307,25 +302,25 @@ Aren’t you the vishNu who gloriously saved the elephant kind? (referring to �
 
   1      2      3     4       5         6      7        8
 
-; gM d N  S S  ; ss  S ;  S S   ; , s , s S  | ns r sn- n- N   ; N N ; | dnsn – D P   D ;  ;  ; ||
+; gM d N  S S  ; ss  S ;  S S   ; , s , s S  | ns r sn- n- N   ; N N ; | dnsn – D P   D ;  ;  ; |
 
   Aa-tura muga kari rA- juni   brOcina   vA-  - - su dE   -vuDE  nI- -  vu ga   dA-  -  -
 
  
 
-; gM d N  S S  ; ss  S ;  S ;   , rG, , S S | ns rrss n- n-N  ; N N ; | dnsn – D P  D ; dndn  ||
+; gM d N  S S  ; ss  S ;  S ;   , rG, , S S | ns rrss n- n-N  ; N N ; | dnsn – D P  D ; dndn  |
 
   Aa-tura muga kari rA- juni   brO- cina  vA-  - - su dE  -vuDE nI- -  vu ga   dA-  -  -
 
  
 
-dp- gM d N  S S  ; ss  S ;  S ;  nsrgmmgr sS, |  ns rrss n- n-N ; N N ; | dnsn – D P  D ; prsS,Dp ||
+dp- gM d N  S S  ; ss  S ;  S ;  nsrgmmgr sS, |  ns rrss n- n-N ; N N ; | dnsn – D P  D ; prsS,Dp |
 
   Aa-tura  muga kari rA- juni brO- -  - cina  vA-  - - su dE -vuDE nI- -  vu ga   dA-  -  -
 
  
 
-;- gM d N  S S  ; ss  S ;  S ;  nsrgpmmgrs S, | ns rrss n- n-N   ; N N ; | dnsn – D P  D ; D ; ||
+;- gM d N  S S  ; ss  S ;  S ;  nsrgpmmgrs S, | ns rrss n- n-N   ; N N ; | dnsn – D P  D ; D ; |
 
  Aa-tura  muga kari rA- juni brO- -   - cina  vA-  - - su dE -vuDE nI- -  vu ga   dA-  -  -
 
@@ -353,7 +348,7 @@ viDuvaka (without leaving) –
 
   1       2      3      4       5       6         7      8
 
-N ;  S S,m  G R-  S –sn rs-ss nd D  nsnd P P  |  DGM- D    P D-  N D  |  N – S N  S  N D N R ||
+N ;  S S,m  G R-  S –sn rs-ss nd D  nsnd P P  |  DGM- D    P D-  N D  |  N – S N  S  N D N R |
 
 pA da ka-  mel- la pO – go- - TTi  ga- - TTiga nA- -  -  - - cei  -   -   ba - TTi viDuvaga
 
@@ -363,11 +358,11 @@ Chitta Swaram:
 
   1       2        3       4       5        6       7      8
 
-S, s  nd pd nsnn ddpm  P d M, -G   , M P D n | s N dpm-nd   , pmg –mpdm | , grS  sM-g  mpd M pdn||
+S, s  nd pd nsnn ddpm  P d M, -G   , M P D n | s N dpm-nd   , pmg –mpdm | , grS  sM-g  mpd M pdn|
 
  
 
-ssr N nns  D- ddn  P-d  mpdn  sndp  mgmn dnp-d | M pdn- sM  grs R S n |  dp S N dp  mG M pdn ||
+ssr N nns  D- ddn  P-d  mpdn  sndp  mgmn dnp-d | M pdn- sM  grs R S n |  dp S N dp  mG M pdn |
 
  
 
@@ -375,19 +370,19 @@ ssr N nns  D- ddn  P-d  mpdn  sndp  mgmn dnp-d | M pdn- sM  grs R S n |  dp S N 
 
  
 
-prrs S- ss   nd M -P ; gmpd-pd nrss  dp –M P Dnd  | pmM ; ; - dp  mgM – psnd |np- N D N  nrss ;  ;  ||
+prrs S- ss   nd M -P ; gmpd-pd nrss  dp –M P Dnd  | pmM ; ; - dp  mgM – psnd |np- N D N  nrss ;  ;  |
 
 brO –  cE -  - -  - vA-  - - -  - -  - - -  - - re va ru  rA - - - - ni nnu  vi na - -- raghuva  rA-- 
 
  
 
-M ;  R mg  rsS ; ; ;   MG M N  ndD  ; ;  |  S S – Sds  rs- ,n - , nN | dsnd – P-nD,  ,m- Pdp – dn  ||
+M ;  R mg  rsS ; ; ;   MG M N  ndD  ; ;  |  S S – Sds  rs- ,n - , nN | dsnd – P-nD,  ,m- Pdp – dn  |
 
 nI  ca ra- Nam- - -    bujamunu nE -  - -    viDa  jA-   --la  karu  NA--  -  la-  - - - vA-- la –
 
  
 
-prrs S- ss   nd M -P ;  P,  rs  SD P -M G G | M ; ; - dp  mg-M – psnd |np- ; n  D  n   nrss ;  ;  ||
+prrs S- ss   nd M -P ;  P,  rs  SD P -M G G | M ; ; - dp  mg-M – psnd |np- ; n  D  n   nrss ;  ;  |
 
 brO –  cE -  - -  - vA- - - -  - -  - - -  re va ru  rA - - ni   nnu vi na -   -- - raghuva  rA-- 
 
