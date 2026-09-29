@@ -23,7 +23,7 @@ Pallavi
 s, s r | m,m m | p d p n S
 Chakkani | thalliki | chAngubhala
 S n | p n S R | S n p m | p dp m r, , s
-thana chakkera mOviki chAngubhala
+thana | chakkera | mOviki | chAngubhala
 Charanam 1 :
 p d p d | p d p d | p, d p, d | p d
 kulikeDi | muripepu | kummarimpu | thana

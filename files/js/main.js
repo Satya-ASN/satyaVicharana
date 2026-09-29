@@ -201,6 +201,7 @@ async function getContentById(contentId, title) {
 
         'SJ_RaaraVenu': await getSJ_RaaraVenuContent(),
 
+        'O_happyBirthday': await getO_HappyBirthdayContent(),
         'O_Lingaastakam': await getO_LingaastakamContent(),
         'O_harivarasanam': await getO_HariVasarasanamContent(),
         'O_ramaChandraya': await getO_RamaChandrayaContent(),
@@ -1130,6 +1131,10 @@ async function getK_KsheerabdiKanyakakuContent() {
 
 async function getSJ_RaaraVenuContent() {
     return loadContent_md_html('md/sangeetam/SJ_raaravENu.md');
+}
+
+async function getO_HappyBirthdayContent() {
+    return loadContent_md_html('md/sangeetam/O_HappyBirthday.md');
 }
 
 async function getO_LingaastakamContent() {
