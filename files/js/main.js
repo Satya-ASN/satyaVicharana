@@ -168,7 +168,7 @@ async function getContentById(contentId, title) {
         'Ganapati-Slokam': await getGanapatiSlokamContent(),
 
         'sangeetam-intro': await getSangeetamIntroContent(),
-		'sarali-swaramulu': await getJantaSwaramuluContent(),
+		'sarali-swaramulu': await getSaraliSwaramuluContent(),
         'janta-swaramulu': await getJantaSwaramuluContent(),
         'Alankaramulu': await getAlankaramuluContent(),
         'AlankaramuluExercise': await getAlankaramuluExerciseContent(),
