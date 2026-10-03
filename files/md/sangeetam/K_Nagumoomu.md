@@ -11,17 +11,17 @@ momu-kana-leni.html
 Youtube Class: https://www.youtube.com/watch?v=bypQSwZSXzw 
 Audio MP3 Class: http://www.shivkumar.org/music/nagumomu-class.mp3 
 
-Check the image
+| | | | | | | | |
+|---|---|---|---|---|---|---|---|
+M2 P | N2 , | , , , , | N2 , , | D2 P | M2 , | , , , , | M2 , , | 
+Nagu | mo , | , , , , | mu , | Gana | le , | , , , , | ni ,
+G2 , | G2 , | R2 , , , | S R2 | S , , | , , , , |
+Naa | jaa , | li | Deli | si , , | , , , , |
 
-M2 P | N2 - | - - - - | N2 - - | D2 P | M2 - | - - - - | M2 - - | 
-Nagu | mo - | - - - | mu - | Gana | le - | - - - | ni -
-G2 - | G2 - | R2 | S R2 | S - - |
-Naa | jaa - | li | Deli | si - -
-
-P N | s* - | -  - | s* - - | s* g3* | m2* - - | - - - - | m2* - - | 
-Na ga | raa- | -  - | ja - | dha ra | Ni - - | du –  
-g2* r2* | g2* - - | - - - - | r2* - - |
-Pari | vaa - | - - | ru -    le -  -  -  la -  - - -  
+P N | s* , | , , , , | s* , , | s* g3* | m2* , , | , , , , | m2* , , | 
+Na ga | raa , | , , , , | ja , | dha ra | Ni , , | du –  
+g2* r2* | g2* , , | , , , , | r2* , , |
+Pari | vaa , | , , | ru , | le ,  ,  ,  | la ,  , , ,  
 
 
 ----------------------
