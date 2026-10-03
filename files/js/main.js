@@ -210,6 +210,7 @@ async function getContentById(contentId, title) {
         'MS_maatemantramu': await getMS_maatemantramuContent(),
         'MS_yedutanilichindi_choodu': await getMS_yedutanilichindi_chooduContent(),
         'MS_AnjaliAnjali': await getAnjaliAnjaliContent(),
+        'MS_telusaManasa': await getMS_telusaManasaContent(),
     };
     
     // Return specific content or generate placeholder
@@ -1036,6 +1037,10 @@ async function getAlankaramuluExerciseContent() {
 
 async function getAnjaliAnjaliContent() {
     return loadContent_md_html('md/sangeetam/MS_AnjaliAnjali.md');
+}
+
+async function getMS_telusaManasaContent() {
+    return loadContent_md_html('md/sangeetam/telusaManasa.md');
 }
 
 async function getHechuSthayiContent(){
