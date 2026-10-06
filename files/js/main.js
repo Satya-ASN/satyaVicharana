@@ -206,6 +206,7 @@ async function getContentById(contentId, title) {
         'O_Lingaastakam': await getO_LingaastakamContent(),
         'O_harivarasanam': await getO_HariVasarasanamContent(),
         'O_ramaChandraya': await getO_RamaChandrayaContent(),
+        'O_janaGanaMana': await getO_JanaGanaManaContent(),
 
         'MS_maatemantramu': await getMS_maatemantramuContent(),
         'MS_yedutanilichindi_choodu': await getMS_yedutanilichindi_chooduContent(),
@@ -1157,6 +1158,10 @@ async function getO_RamaChandrayaContent() {
 
 async function getO_HariVasarasanamContent() {
     return loadContent_md_html('md/sangeetam/O_Harivarasanam.md');
+}
+
+async function getO_JanaGanaManaContent() {
+    return loadContent_md_html('md/sangeetam/O_janaGanaMana.md');
 }
 
 async function getMS_maatemantramuContent() {
