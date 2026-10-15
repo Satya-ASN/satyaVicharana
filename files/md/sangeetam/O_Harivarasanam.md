@@ -10,6 +10,28 @@ Avarohanam: s n2 p m1 r2 s
 </h3>
 <h4>
 
+
+| | | | | |
+|---|---|---|---|---|
+R2  M1  M1   | M1  ,  M1   M1  ,  ,   | R2  ,  S | R2  M1  M1   | M1  ,  M1   | M1  ,  ,   ,  ,  ,
+shara Na  | may   ya  ppA       | swA  mi | shara Na  | may   ya	| ppA
+|
+M1  P  M1   | P  ,  N2   P  M1  R2   | R2  P  M1 | R2  ,  S   | S  ,  S S  ,  ,   ,  ,  ,
+shara Na  | may   ya  ppA       | swA  mi | shara Na  | may   ya	ppA
+|
+‘N2  S  S  S  , | S   R2  S  R2   ,  ,  , | ‘N2  , ‘N2  | R2  ,  S | S  ,  ,   ,  ,  ,
+harivarA	| sanam | vishwa | moha | nam
+|
+‘N2  S  R2  | S  ,  S | R2S ‘N2’P , ,  , | ‘P  , R2  ,  S   S  ,  S | S  ,  ,   ,  ,  ,
+harida | dheeshwa | ram | Aaradhyapadhu | kam
+|
+R2  M1  M1   | M1  ,  M1  | M1  ,  ,   M1  R2  S | R2  ,  P   M1  ,  M1 | M1  ,  ,   ,  ,  ,
+Ari vi | marddha | nam | nithyanartha | nam 
+|
+M1  P  M1   P  ,  | N2   P  M1  R2   R2  P  M1 | R2  ,  S   | S  ,  S | S  ,  ,   ,  ,  ,
+harihara | thmajam | dhEva| mashra | yE
+
+
 | | | | | | | | |
 |----|----|----|----|----|----|----|----|
 .N s s | s , s | r s r | ,,, | .N , .N | r , S s , , | , , ,
