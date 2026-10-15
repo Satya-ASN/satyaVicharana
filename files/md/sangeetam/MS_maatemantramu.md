@@ -9,10 +9,10 @@ S P N P Ḏ Ḏ N S P Ḏ M P			P M G S R S N
 ||||||
 |---|---|---|---|---|
 |Maate | Manthramo | Maana se | Bhandamo
-R , R , | G , G G , , | R G P ,  | M , G G , ,	
+R2 , R2 , | G , G G , , | R2 G P ,  | M , G G , ,	
 Ee Mamathe  | Ee Samathe | Mangala | Vaadhyamu
-R , R R G ,	 | R , R R G , | R , S S  | P , M G , ,
+R2 , R2 R2 G ,	 | R2 , R2 R2 G , | R2 , S S  | P , M G , ,
 Idi  | Kalyaanam  | Kanneeyam  | Jeevitam | O O O
-S G | P , P , D , | P P P , D ,  | P , D~N S ,  | S , ~ N , ~ D ,
+S G | P , P , D2 , | P P P , D2 ,  | P , D2~N S ,  | S , N , D2 ,
 |Maate | Manthramo | Maana se | Bhandamo
-R , R , | G , G G , , | R G P ,  | M , G G , ,	
+R2 , R2 , | G , G G , , | R2 G P ,  | M , G G , ,	

@@ -20,17 +20,17 @@
 
 |---|---|---|---|---|---|
 |---|---|---|---|---|---|
-S R - G G - G G | G G G , G G | R G M | G , G G | R , R R | *n R , S , , ,
+S R2 - G G - G G | G G G , G G | R2 G M | G , G G | R2 , R2 R2 | *n R2 , S , , ,
 Jana - gana-mana | adhinayaka | jaya he | Bharata | bhagya | vidhata
-S , P , P - P , P | P M2 P , P | P P M2 P , | M , M M | M , M G | RM G , , ,
+S , P , P - P , P | P M2 P , P | P P M2 P , | M , M M | M , M G | R2M G , , ,
 Punjab - Sindhu | Gujarata | Maraatha | Dravida | Utkala | Banga
-G , G - G G , G R | P P P , | M , M , | G , G G | R R R | R *n R S , , ,
+G , G - G G , G R2 | P P P , | M , M , | G , G G | R2 R2 R2 | R2 *n R2 S , , ,
 Vindhya - Himachala | Yamuna | Ganga | Uchchala | Jaladhi | taranga
-S R - G G | G , GM | RG M , , , | G M P P | P , M G | RM G , , ,
+S R2 - G G | G , GM | R2G M , , , | G M P P | P , M G | R2M G , , ,
 Tava - shubha | name | jage | Tava shubha | ashish | maange
-G , G , | R R | R R | *n R S , , ,
+G , G , | R2 R2 | R2 R2 | *n R2 S , , ,
 Gahe | tava | jaya | gatha
-P P - P P - P , P P | P , P P | M2 D P , | M , M M | M , M G | R M , G , , ,
+P P - P P - P , P P | P , P P | M2 D2 P , | M , M M | M , M G | R2 M , G , , ,
 Jana - gana - mangala | dayaka | jaya he | Bharata | bhagya | vidhata
-N N s* , , ,| N D N , , , | P P D , , , | S S - R R | G G - R G M , , ,
+N N s* , , ,| N D2 N , , , | P P D2 , , , | S S - R2 R2 | G G - R2 G M , , ,
 Jaya he | jaya he | jaya he | Jaya - jaya | jaya - jaya he
