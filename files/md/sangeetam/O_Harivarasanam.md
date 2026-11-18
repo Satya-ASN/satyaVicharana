@@ -2,12 +2,12 @@
 
 <h3>
 Ragam: Madhyamavati
-<br>
-Arohanam: s r2 m1 p n2 s
-<br>
-Avarohanam: s n2 p m1 r2 s
-<br>
-</h3>
+<table>
+<tr>
+<td>Arohanam: s r2 m1 p n2 s</td>
+<td>Avarohanam: s n2 p m1 r2 s</td>
+</tr>
+<table>
 <h4>
 
 
@@ -15,31 +15,22 @@ Avarohanam: s n2 p m1 r2 s
 |---|---|---|---|---|---|---|
 R2  M1  M1   | M1  ,  M1   M1  ,  ,   | R2  ,  S | R2  M1  M1   | M1  ,  M1 | M1  ,  ,   ,  ,  ,
 shara Na  | may   ya  ppA       | swA  mi | shara Na  | may   ya  | ppA
-|
-M1  P  M1   | P  ,  N2   P  M1  R2   | R2  P  M1 | R2  ,  S   | S  ,  S | S  ,  ,   ,  ,  ,
+M1  P  M1   | P  ,  N2   P  M1  R2   | R2  P  M1 | R2  S  S   | S  ,  S | S  ,  ,   ,  ,  ,
 shara Na  | may   ya  ppA       | swA  mi | shara Na  | may   ya	| ppA
-|
 ‘N2  S  S  S  , | S   R2  S  R2   ,  ,  , | ‘N2  , ‘N2  | R2  ,  S  | S  ,  ,   ,  ,  ,
 harivarA	| sanam | vishwa | moha | nam
-|
 ‘N2  S  R2  | S  ,  S | R2S ‘N2’P , ,  , | ‘P  , R2  ,  S |   S  ,  S |S  ,  ,   ,  ,  ,
 harida | dheeshwa | ram | Aaradhya | padhu | kam
-|
 R2  M1  M1   | M1  ,  M1  | M1  ,  ,   M1  R2  S | R2  ,  P  | M1  ,  M1 |M1  ,  ,   ,  ,  ,
 Ari vi | marddha | nam | nithya | nartha | nam 
-|
 M1  P  M1   P  ,  | N2   P  M1  R2   R2  P  M1 | R2  ,  S   | S  ,  S | S  ,  ,   ,  ,  ,
 harihara | thmajam | dhEva| mashra | yE
-|
 P  P  M1   |  P  ,  S’  N2  ,  ,   ,  ,  , | S’ ,  N2  |   P  ,  P | P  ,  M1   P  ,  M1
 shara Na   | kIr  tha  nam | bha  ktha |  mA   na  | sam
-| 
 P  P  R2’   | S’ ,  S’  S’ ,  ,   R2’ N2  , | N2  ,  S’  |  S’ ,  S’ | S’ ,  ,   ,  ,  ,
 bhara Na   | lO    lu  pam | nar  tha  |  nA    la | sam
- | 
 P  N2  N2   N2  ,  N2 |  N2  ,  ,   R2’ ,  S’ | P  ,  P   |  P  ,  P | M1  ,  ,   ,  ,  ,
 a ru Na |  bhA   su  ram | bhoo tha  | nA    ya | kam
- | 
 R2  M1  P   N2  S’ N2 |  P  M1  R2   R2  P  M1 | R2  ,  S |  S  ,  S | S  ,  ,   ,  ,  ,
 ha ri ha | rA  thma jam | dhE   va | mA   shra | yE
 
