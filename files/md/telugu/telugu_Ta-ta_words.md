@@ -1,61 +1,141 @@
-## For pronunciation practice
+<h2>
+Pronunciation practice
 
-It's best to use words that contain a mix of *ట/డ/ణ (retroflex)* and *త/ద/న (dental)* sounds so learners can switch tongue positions frequently.
+* ట ఠ డ ఢ ణ - (retroflex) - Tongue DOEN'T touche teeth while saying
 
-* ట ఠ డ ఢ ణ - Tongue touches teeth while saying
-* త థ ద ధ న - Tongue DOEN'T touche teeth while saying
+<br>
+* త థ ద ధ న - (dental) - Tongue touches teeth while saying
+
+<br>
+<br>
 
 తండా
+
 దండు
+
 దండం
+
 తండ్రీ
+
 దండన
+
 నాటకం
+
 నటన
+
 నడత
+
 తోటన
+
 దాటిన
+
 నడక
+
 దండి
+
 దాణా
+
 తాడు
+
 డబ్బా
+
 దాటి
+
 దాడి
+
 నాటి
+
 దండ
+
 తండ
+
 దండి
+
+
+<br>
 Longer Words (better for practice)
+
 దండనం
+
 నాట్యం
+
 ధనదాత
+
 దండయాత్ర
+
 నేతృత్వం
+
 నాటకము
+
 పండితుడు
+
 తాతయ్య
+
 దండప్రణామం
+
 పట్టుదల
+
 నిటారుగా
+
 మండనం
+
 వందనం
+
 దాతృత్వం
+
 పండుగనాడు
+
 నడతతీరు
+
 తాండవం
+
 దండధరం
+
 వినోదం
+
 సాధన
+
+
+<br>
 Minimal Contrast Practice
+
 టాటా - తాత
+
 డాబు - దాబు
+
 ణం - నం
+
 పండు - పందు
+
 దండం - దందా
+
 నాటకం - నాదం
+
 నటన - నదన
+
 దాణా - దానం
+
+<br>
 Mixed-Sound Reading List (Excellent for drills)
 
-నాటకం, దండనం, నటన, నడత, తండా, దండు, దాణా, పండితుడు, వందనం, దాతృత్వం, తాండవం, దండయాత్ర, నాట్యం, సాధన, పండుగనాడు, నడక, దండప్రణామం, నేతృత్వం, పట్టుదల, వినోదం.
+నాటకం
+దండనం
+నటన
+నడత
+తండా
+దండు
+దాణా
+పండితుడు
+వందనం
+దాతృత్వం
+తాండవం
+దండయాత్ర
+నాట్యం
+సాధన
+పండుగనాడు
+నడక
+దండప్రణామం
+నేతృత్వం
+పట్టుదల
+వినోదం
+</h2>

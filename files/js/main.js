@@ -903,7 +903,7 @@ async function getTeluguWordsSimpleContent() {
 }
 
 async function getTeluguWordsDaDaContent() {
-    return loadContent_md_html('telugu_Ta-ta_words.md');
+    return loadContent_md_html('md/telugu/telugu_Ta-ta_words.md');
 }
 
 async function getTeluguWordsGunintaaluContent() {
