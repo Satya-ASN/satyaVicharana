@@ -118,10 +118,11 @@ async function getContentById(contentId, title) {
         'history': getHistoryContent(isTeluguPage),
         'vowels': isTeluguPage ? getTeluguVowelsContent() : getSanskritVowelsContent(),
         'telugu-vowels': getTeluguVowelsContent(),
-        'telugu-consonants': getTeluguConsonantsContent(),
+        'telugu-consonants': await getTeluguConsonantsContent(),
         'achhulu-gunintalu': await getTeluguAchhuluGunintaaluContent(),
         'hallulu-ottulu': await getTeluguHalluluOttuluContent(),
-        'telugu-words-simple': await getTeluguWordsSimpleContent(),
+        'telugu-words-simple': await getTelugu(),
+        'telugu-words-Ta-ta': await getTeluguWordsDaDaContent(),
         'telugu-words-gunintaalu': await getTeluguWordsGunintaaluContent(),
         'telugu-words-vottulu': await getTeluguWordsVottuluContent(),
 		'telugu-words-complex': await getTeluguWordsComplexContent(),
@@ -136,7 +137,7 @@ async function getContentById(contentId, title) {
         'telugu-reads-deepavali': await getTeluguReadsDeepavaliContent(),
         'telugu-reads-ugaadi': await getTeluguReadsUgaadiContent(),
         'telugu-reads-sankranti': await getTeluguReadsSankrantiContent(),
-        'consonants': isTeluguPage ? getTeluguConsonantsContent() : getSanskritConsonantsContent(),
+        'consonants': await getSanskritConsonantsContent(),
         
         'numbers': getNumbersContent(isTeluguPage),
         'telugu-ankelu-kaalalu': getNumbersTimeContent(),
@@ -901,6 +902,10 @@ async function getTeluguWordsSimpleContent() {
     return loadFlashcardCSV('telugu-simpleAksharaalu.csv');
 }
 
+async function getTeluguWordsDaDaContent() {
+    return loadContent_md_html('telugu_Ta-ta_words.md');
+}
+
 async function getTeluguWordsGunintaaluContent() {
     return loadFlashcardCSV('telugu-gunintaaluAksharaalu.csv');
 }
@@ -1009,7 +1014,8 @@ async function getTeluguVowelsContent() {
     return loadContent_md_html('pages/telugu-achchulu.html');
 }
 async function getTeluguConsonantsContent() {
-    return loadContent_md_html('pages/telugu-hallulu.html');
+    // return loadContent_md_html('pages/telugu-hallulu.html');
+    return loadContent_md_html('md/telugu/telugu-vottulu.md');
 }
 
 async function getGanapatiSlokamContent() {
