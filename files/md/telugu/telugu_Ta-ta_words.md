@@ -1,4 +1,9 @@
-For pronunciation practice, it's best to use words that contain a mix of ట/డ/ణ (retroflex) and త/ద/న (dental) sounds so learners can switch tongue positions frequently.
+## For pronunciation practice
+
+It's best to use words that contain a mix of *ట/డ/ణ (retroflex)* and *త/ద/న (dental)* sounds so learners can switch tongue positions frequently.
+
+* ట ఠ డ ఢ ణ - Tongue touches teeth while saying
+* త థ ద ధ న - Tongue DOEN'T touche teeth while saying
 
 తండా
 దండు

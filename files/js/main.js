@@ -121,7 +121,7 @@ async function getContentById(contentId, title) {
         'telugu-consonants': await getTeluguConsonantsContent(),
         'achhulu-gunintalu': await getTeluguAchhuluGunintaaluContent(),
         'hallulu-ottulu': await getTeluguHalluluOttuluContent(),
-        'telugu-words-simple': await getTelugu(),
+        'telugu-words-simple': await getTeluguWordsSimpleContent(),
         'telugu-words-Ta-ta': await getTeluguWordsDaDaContent(),
         'telugu-words-gunintaalu': await getTeluguWordsGunintaaluContent(),
         'telugu-words-vottulu': await getTeluguWordsVottuluContent(),
@@ -1013,14 +1013,15 @@ async function getTeluguInsectsContent() {
 async function getTeluguVowelsContent() {
     return loadContent_md_html('pages/telugu-achchulu.html');
 }
+
 async function getTeluguConsonantsContent() {
-    // return loadContent_md_html('pages/telugu-hallulu.html');
-    return loadContent_md_html('md/telugu/telugu-vottulu.md');
+    return loadContent_md_html('pages/telugu-hallulu.html');
+    // return loadContent_md_html('md/telugu/telugu-vottulu.md');
 }
 
 async function getGanapatiSlokamContent() {
 //    return loadContent_md_html('pages/GanapatiSlokam.html');
-    return loadContent_md_html('md/slokas/GanapatiSlokam.md');
+    // return loadContent_md_html('md/slokas/GanapatiSlokam.md');
 }
 
 async function getSangeetamIntroContent() {
